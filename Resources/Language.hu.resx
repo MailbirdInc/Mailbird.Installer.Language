@@ -225,7 +225,7 @@ Click here to show the log file.</comment>
     <comment>Installing {0}...</comment>
   </data>
   <data name="InstallationForm_RunStartup" xml:space="preserve">
-    <value>Automatikusan indul a Windowszal</value>
+    <value>A windowsal együtt induljon</value>
     <comment>Start automatically with Windows</comment>
   </data>
   <data name="InstallationForm_Continue" xml:space="preserve">
