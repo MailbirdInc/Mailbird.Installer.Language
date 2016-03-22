@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -243,7 +243,7 @@
     <comment>Right click here to show player control</comment>
   </data>
   <data name="Dialog_VideoError" xml:space="preserve">
-    <value>Video can&apos;t be played</value>
+    <value>Video can't be played</value>
     <comment>Video can't be played</comment>
   </data>
   <data name="Dialog_VideoErrorExplanation" xml:space="preserve">
@@ -265,5 +265,13 @@
   <data name="Dialog_DownloadFailed" xml:space="preserve">
     <value>Download Failed</value>
     <comment>Download Failed</comment>
+  </data>
+<data name="InstallationForm_ShowLogFile" xml:space="preserve">
+    <value>Show Log File</value>
+    <comment>Show Log File</comment>
+  </data>
+  <data name="Status_DownloadFailed" xml:space="preserve">
+    <value>Download failed.</value>
+    <comment>Download failed.</comment>
   </data>
 </root>
