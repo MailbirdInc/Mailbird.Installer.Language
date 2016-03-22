@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Dialog_CancelInstallation" xml:space="preserve">
+    <value>Annullér installation</value>
+    <comment>Cancel Installation</comment>
+  </data>
+  <data name="Dialog_CancelInstallationExplanation" xml:space="preserve">
+    <value>Er du sikker på at du vil annullere installationen af {0}?</value>
+    <comment>Are you sure you want to cancel the {0} installation?</comment>
+  </data>
+  <data name="Dialog_DownloadFailedExplanation" xml:space="preserve">
+    <value>Kan ikke hente {0} setup filen. Vil du hente og prøve offline installeren i stedet?</value>
+    <comment>Cannot download {0} setup file.
+ Would you like to download and try the offline installer instead?</comment>
+  </data>
+  <data name="Dialog_InvalidLocation" xml:space="preserve">
+    <value>Ugyldig lokation</value>
+    <comment>Invalid Location</comment>
+  </data>
+  <data name="Dialog_InvalidLocationExplanation" xml:space="preserve">
+    <value>Mailbird kan ikke blive installeret på en lokation med ikke-engelske karakterer i stien. Vælg venligst en anden lokation.</value>
+    <comment>Mailbird cannot be installed to a location with non-English characters in the path. Please select a different location.</comment>
+  </data>
+  <data name="Dialog_OfflineInstaller" xml:space="preserve">
+    <value> Hent offline installationen.</value>
+    <comment>Download Offline Installer</comment>
+  </data>
+  <data name="Dialog_OfflineInstallerExplanation" xml:space="preserve">
+    <value>Vil du hente og prøve offline installationen i stedet for?</value>
+    <comment>Would you like to download and try the offline installer instead?</comment>
+  </data>
+  <data name="Dialog_UnableLaunch" xml:space="preserve">
+    <value>Starter {0}</value>
+    <comment>Launching {0}</comment>
+  </data>
+  <data name="Dialog_UnableLaunchExplanation" xml:space="preserve">
+    <value>Start venligst {0} ved at benytte genvejen på skrivebordet.</value>
+    <comment>Please launch {0} using the shortcut on the desktop.</comment>
+  </data>
+  <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
+    <value>Opret genvej på skrivebordet</value>
+    <comment>Create shortcut on Desktop</comment>
+  </data>
+  <data name="InstallationForm_Directory" xml:space="preserve">
+    <value>Installationsmappe:</value>
+    <comment>Installation folder:</comment>
+  </data>
+  <data name="InstallationForm_InstallMailbird" xml:space="preserve">
+    <value>Installer Mailbird</value>
+    <comment>Install Mailbird</comment>
+  </data>
+  <data name="InstallationForm_Language" xml:space="preserve">
+    <value>Sprog:</value>
+    <comment>Language:</comment>
+  </data>
+  <data name="InstallationForm_PinStartMenu" xml:space="preserve">
+    <value>Fastgør Mailbird til Startmenuen</value>
+    <comment>Pin Mailbird to Start menu</comment>
+  </data>
+  <data name="InstallationForm_PinTaskbar" xml:space="preserve">
+    <value>Fastgør Mailbird til Taskbaren</value>
+    <comment>Pin Mailbird to Taskbar</comment>
+  </data>
+  <data name="InstallationForm_StartMailbird" xml:space="preserve">
+    <value>Start Mailbird</value>
+    <comment>Start Mailbird</comment>
+  </data>
+  <data name="InstallationForm_Status" xml:space="preserve">
+    <value>Installerer...</value>
+    <comment>Installing...</comment>
+  </data>
+  <data name="InstallationForm_Title" xml:space="preserve">
+    <value>{0} Installation</value>
+    <comment>{0} Installer</comment>
+  </data>
+  <data name="InstallationForm_Version" xml:space="preserve">
+    <value>Version:</value>
+    <comment>Version:</comment>
+  </data>
+  <data name="Status_AlreadyInstalled" xml:space="preserve">
+    <value>{0} er allerede installeret.</value>
+    <comment>{0} is already installed.</comment>
+  </data>
+  <data name="Status_Downloading" xml:space="preserve">
+    <value>Henter...</value>
+    <comment>Downloading...</comment>
+  </data>
+  <data name="Status_DownloadProgress" xml:space="preserve">
+    <value>Henter {0} Setup... ({1}%)</value>
+    <comment>Downloading {0} Setup... ({1}%)</comment>
+  </data>
+  <data name="Status_InstallationCompleted" xml:space="preserve">
+    <value>Installation færdig</value>
+    <comment>Installation is completed</comment>
+  </data>
+  <data name="Status_InstallationErrorCode" xml:space="preserve">
+    <value>Installationen fejlede med fejl kode: {0} 
+Klik her for at vise log filen.</value>
+    <comment>Installation failed with error code: {0} 
+Click here to show the log file.</comment>
+  </data>
+  <data name="Status_InstallationFailed" xml:space="preserve">
+    <value>Installationen fejlede.</value>
+    <comment>Installation failed.</comment>
+  </data>
+  <data name="Status_Installing" xml:space="preserve">
+    <value>Installerer {0}...</value>
+    <comment>Installing {0}...</comment>
+  </data>
+  <data name="InstallationForm_RunStartup" xml:space="preserve">
+    <value>Start automatisk sammen med Windows</value>
+    <comment>Start automatically with Windows</comment>
+  </data>
+  <data name="InstallationForm_Continue" xml:space="preserve">
+    <value>Forsæt</value>
+    <comment>Continue</comment>
+  </data>
+  <data name="InstallationForm_Share" xml:space="preserve">
+    <value>Del med venner</value>
+    <comment>Share with Friends</comment>
+  </data>
+  <data name="InstallationForm_Replay" xml:space="preserve">
+    <value>Klik her for at afspille videoen</value>
+    <comment>Click here to play the video</comment>
+  </data>
+  <data name="InstallationForm_RightClick" xml:space="preserve">
+    <value>Højre klik her for at vise knapper til afspilleren</value>
+    <comment>Right click here to show player control</comment>
+  </data>
+  <data name="Dialog_VideoError" xml:space="preserve">
+    <value>Video kan ikke afspilles</value>
+    <comment>Video can't be played</comment>
+  </data>
+  <data name="Dialog_VideoErrorExplanation" xml:space="preserve">
+    <value>Der opstod en fejl, i forsøget på at afspille introduktions videoen. Vil du gerne besøge vores tips og trick side for at lære mere om Mailbird?</value>
+    <comment>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</comment>
+  </data>
+  <data name="InstallationForm_Mute" xml:space="preserve">
+    <value>Mute</value>
+    <comment>Mute</comment>
+  </data>
+  <data name="InstallationForm_Unmute" xml:space="preserve">
+    <value>Fjern mute</value>
+    <comment>Unmute</comment>
+  </data>
+  <data name="Status_InstallationErrorMessage" xml:space="preserve">
+    <value>Installationen fejlede.
+({0}) {1} Klik her for at vise log filen.</value>
+    <comment>Installation failed.
+({0}) {1} Click here to show the log file.</comment>
+  </data>
+  <data name="Dialog_DownloadFailed" xml:space="preserve">
+    <value>Overførsel fejlede</value>
+    <comment>Download Failed</comment>
+  </data>
+  <data name="InstallationForm_ShowLogFile" xml:space="preserve">
+    <value>Vis log fil</value>
+    <comment>Show Log File</comment>
+  </data>
+  <data name="Status_DownloadFailed" xml:space="preserve">
+    <value>Overførsel fejlede.</value>
+    <comment>Download failed.</comment>
+  </data>
+</root>

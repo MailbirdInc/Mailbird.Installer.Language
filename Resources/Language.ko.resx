@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Dialog_CancelInstallation" xml:space="preserve">
+    <value>설치 취소</value>
+    <comment>Cancel Installation</comment>
+  </data>
+  <data name="Dialog_CancelInstallationExplanation" xml:space="preserve">
+    <value>메일버드 {0} 설치를 취소하시겠습까?</value>
+    <comment>Are you sure you want to cancel the {0} installation?</comment>
+  </data>
+  <data name="Dialog_DownloadFailedExplanation" xml:space="preserve">
+    <value>Cannot download {0} setup file. Would you like to download and try the offline installer instead?</value>
+    <comment>Cannot download {0} setup file.
+ Would you like to download and try the offline installer instead?</comment>
+  </data>
+  <data name="Dialog_InvalidLocation" xml:space="preserve">
+    <value>잘못된 위치</value>
+    <comment>Invalid Location</comment>
+  </data>
+  <data name="Dialog_InvalidLocationExplanation" xml:space="preserve">
+    <value>메일버드 설치 경로에 영어가 아닌 문자가 있는 경우 설치가 불가 합니다. 다른 설치 장소를 지정해주시기 바랍니다. </value>
+    <comment>Mailbird cannot be installed to a location with non-English characters in the path. Please select a different location.</comment>
+  </data>
+  <data name="Dialog_OfflineInstaller" xml:space="preserve">
+    <value>오프라인 인스톨러를 다운로드 받기</value>
+    <comment>Download Offline Installer</comment>
+  </data>
+  <data name="Dialog_OfflineInstallerExplanation" xml:space="preserve">
+    <value>대신 오프라인 인스톨러를 다운로드, 시도 하시겠습니까?</value>
+    <comment>Would you like to download and try the offline installer instead?</comment>
+  </data>
+  <data name="Dialog_UnableLaunch" xml:space="preserve">
+    <value>{0} 론칭</value>
+    <comment>Launching {0}</comment>
+  </data>
+  <data name="Dialog_UnableLaunchExplanation" xml:space="preserve">
+    <value>데스크탑에 있는 바로가기로 {0}를 시작하시기 바랍니다.</value>
+    <comment>Please launch {0} using the shortcut on the desktop.</comment>
+  </data>
+  <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
+    <value>바탕 화면에 바로 가기 만들기</value>
+    <comment>Create shortcut on Desktop</comment>
+  </data>
+  <data name="InstallationForm_Directory" xml:space="preserve">
+    <value>설치 폴더:</value>
+    <comment>Installation folder:</comment>
+  </data>
+  <data name="InstallationForm_InstallMailbird" xml:space="preserve">
+    <value>메일버드 설치</value>
+    <comment>Install Mailbird</comment>
+  </data>
+  <data name="InstallationForm_Language" xml:space="preserve">
+    <value>언어</value>
+    <comment>Language:</comment>
+  </data>
+  <data name="InstallationForm_PinStartMenu" xml:space="preserve">
+    <value>시작 메뉴에 메일버드를 핀하기</value>
+    <comment>Pin Mailbird to Start menu</comment>
+  </data>
+  <data name="InstallationForm_PinTaskbar" xml:space="preserve">
+    <value>태스크바에 메일버드 핀하기</value>
+    <comment>Pin Mailbird to Taskbar</comment>
+  </data>
+  <data name="InstallationForm_StartMailbird" xml:space="preserve">
+    <value>메일버드 시작</value>
+    <comment>Start Mailbird</comment>
+  </data>
+  <data name="InstallationForm_Status" xml:space="preserve">
+    <value>설치 중...</value>
+    <comment>Installing...</comment>
+  </data>
+  <data name="InstallationForm_Title" xml:space="preserve">
+    <value>{0} 인스톨러</value>
+    <comment>{0} Installer</comment>
+  </data>
+  <data name="InstallationForm_Version" xml:space="preserve">
+    <value>버젼:</value>
+    <comment>Version:</comment>
+  </data>
+  <data name="Status_AlreadyInstalled" xml:space="preserve">
+    <value>이미 {0}가 설치되어 있습니다.</value>
+    <comment>{0} is already installed.</comment>
+  </data>
+  <data name="Status_Downloading" xml:space="preserve">
+    <value>다운로드 중...</value>
+    <comment>Downloading...</comment>
+  </data>
+  <data name="Status_DownloadProgress" xml:space="preserve">
+    <value>다운로딩 {0} 중  설치 중... ({1}%)</value>
+    <comment>Downloading {0} Setup... ({1}%)</comment>
+  </data>
+  <data name="Status_InstallationCompleted" xml:space="preserve">
+    <value>설치 완료</value>
+    <comment>Installation is completed</comment>
+  </data>
+  <data name="Status_InstallationErrorCode" xml:space="preserve">
+    <value>설치 실패: 에러 코드 {0} </value>
+    <comment>Installation failed with error code: {0}</comment>
+  </data>
+  <data name="Status_InstallationFailed" xml:space="preserve">
+    <value>설치 실패.</value>
+    <comment>Installation failed.</comment>
+  </data>
+  <data name="Status_Installing" xml:space="preserve">
+    <value>{0} 설치 중...</value>
+    <comment>Installing {0}...</comment>
+  </data>
+  <data name="InstallationForm_RunStartup" xml:space="preserve">
+    <value>윈도우 시작시 메일버드 시작 </value>
+    <comment>Start automatically with Windows</comment>
+  </data>
+  <data name="InstallationForm_Continue" xml:space="preserve">
+    <value>계속</value>
+    <comment>Continue</comment>
+  </data>
+  <data name="InstallationForm_Share" xml:space="preserve">
+    <value>친구들에게 추천하기</value>
+    <comment>Share with Friends</comment>
+  </data>
+  <data name="InstallationForm_Replay" xml:space="preserve">
+    <value>동영상을 재생하려면 여기를 클릭하십시오</value>
+    <comment>Click here to play the video</comment>
+  </data>
+  <data name="InstallationForm_RightClick" xml:space="preserve">
+    <value>동영상 재생 컨트롤 보기위해서는 마우스 오른쪽 클릭을 하십시오</value>
+    <comment>Right click here to show player control</comment>
+  </data>
+  <data name="Dialog_VideoError" xml:space="preserve">
+    <value>동영상 재생이 불가능합니다</value>
+    <comment>Video can't be played</comment>
+  </data>
+  <data name="Dialog_VideoErrorExplanation" xml:space="preserve">
+    <value>메일버드 소개 동영상을 재생하는데 에러가 있었습니다.  메일버드의 팁과 트릭 페이지를 방문해 더 자세하게 배워 보시겠습니까? </value>
+    <comment>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</comment>
+  </data>
+  <data name="InstallationForm_Mute" xml:space="preserve">
+    <value>음소거</value>
+    <comment>Mute</comment>
+  </data>
+  <data name="InstallationForm_Unmute" xml:space="preserve">
+    <value>소리 재생</value>
+    <comment>Play Sound</comment>
+  </data>
+  <data name="Status_InstallationErrorMessage" xml:space="preserve">
+    <value>설치 실패: ({0}) {1}</value>
+    <comment>Installation failed: ({0}) {1}</comment>
+  </data>
+  <data name="Dialog_DownloadFailed" xml:space="preserve">
+    <value>Download Failed</value>
+    <comment>Download Failed</comment>
+  </data>
+</root>
