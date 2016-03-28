@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -126,7 +126,7 @@
     <comment>Are you sure you want to cancel the {0} installation?</comment>
   </data>
   <data name="Dialog_DownloadFailedExplanation" xml:space="preserve">
-    <value>Cannot download {0} setup file. Would you like to download and try the offline installer instead?</value>
+    <value>Инсталационния Файл {0} не може да бъде свален . Желаете ли да свалите файла и да инсталирате в режим Offline ?</value>
     <comment>Cannot download {0} setup file.
  Would you like to download and try the offline installer instead?</comment>
   </data>
@@ -211,7 +211,7 @@
     <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
-    <value>Неуспешна инсталация с код за грешка: {0}</value>
+    <value>Неуспешна инсталация с код за грешка: {0}  Кликнете тук, за да покаже на лог файл.</value>
     <comment>Installation failed with error code: {0}</comment>
   </data>
   <data name="Status_InstallationFailed" xml:space="preserve">
@@ -235,7 +235,7 @@
     <comment>Share with Friends</comment>
   </data>
   <data name="InstallationForm_Replay" xml:space="preserve">
-    <value>Click here to play the video</value>
+    <value>Натиснете ТУК за да стартирате Видео файла</value>
     <comment>Click here to play the video</comment>
   </data>
   <data name="InstallationForm_RightClick" xml:space="preserve">
@@ -259,19 +259,19 @@
     <comment>Play Sound</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
-    <value>Installation failed: ({0}) {1}</value>
+    <value>Инсталирането не бе успешно: ({0}) {1} Кликнете тук, за да видите на лог файл</value>
     <comment>Installation failed: ({0}) {1}</comment>
   </data>
   <data name="Dialog_DownloadFailed" xml:space="preserve">
-    <value>Download Failed</value>
+    <value>Изтеглянето не бе успешно</value>
     <comment>Download Failed</comment>
   </data>
 <data name="InstallationForm_ShowLogFile" xml:space="preserve">
-    <value>Show Log File</value>
+    <value>Виж лог файла</value>
     <comment>Show Log File</comment>
   </data>
   <data name="Status_DownloadFailed" xml:space="preserve">
-    <value>Download failed.</value>
+    <value>Изтеглянето не бе успешно</value>
     <comment>Download failed.</comment>
   </data>
 </root>
