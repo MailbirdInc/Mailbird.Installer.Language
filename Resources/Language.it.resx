@@ -122,7 +122,7 @@
     <comment>Cancel Installation</comment>
   </data>
   <data name="Dialog_CancelInstallationExplanation" xml:space="preserve">
-    <value>Sei sicuro di voler annullare l&apos;installazione {0}?</value>
+    <value>Sei sicuro di voler annullare l'installazione {0}?</value>
     <comment>Are you sure you want to cancel the {0} installation?</comment>
   </data>
   <data name="Dialog_DownloadFailedExplanation" xml:space="preserve">
@@ -225,7 +225,7 @@ Click here to show the log file.</comment>
     <comment>Installing {0}...</comment>
   </data>
   <data name="InstallationForm_RunStartup" xml:space="preserve">
-    <value>Avvia automaticamente con Windows</value>
+    <value>Avvia in automatico con Windows</value>
     <comment>Start automatically with Windows</comment>
   </data>
   <data name="InstallationForm_Continue" xml:space="preserve">
