@@ -179,7 +179,7 @@
     <comment>Pin Mailbird to Taskbar</comment>
   </data>
   <data name="InstallationForm_StartMailbird" xml:space="preserve">
-    <value>Стартирай Mailbird</value>
+    <value/>
     <comment>Start Mailbird</comment>
   </data>
   <data name="InstallationForm_Status" xml:space="preserve">
@@ -207,7 +207,7 @@
     <comment>Downloading {0} Setup... ({1}%)</comment>
   </data>
   <data name="Status_InstallationCompleted" xml:space="preserve">
-    <value>Инсталацията е завършена!</value>
+    <value>Инсталацията е завършена</value>
     <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
@@ -223,7 +223,7 @@
     <comment>Installing {0}...</comment>
   </data>
   <data name="InstallationForm_RunStartup" xml:space="preserve">
-    <value>Стартирай автоматично с Windows</value>
+    <value/>
     <comment>Start automatically with Windows</comment>
   </data>
   <data name="InstallationForm_Continue" xml:space="preserve">
@@ -259,7 +259,7 @@
     <comment>Play Sound</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
-    <value>Инсталирането не бе успешно: ({0}) {1} Кликнете тук, за да видите на лог файл</value>
+    <value>Инсталирането не бе успешно: ({0}) {1} Кликнете тук, за да видите лог файла.</value>
     <comment>Installation failed: ({0}) {1}</comment>
   </data>
   <data name="Dialog_DownloadFailed" xml:space="preserve">
@@ -271,7 +271,7 @@
     <comment>Show Log File</comment>
   </data>
   <data name="Status_DownloadFailed" xml:space="preserve">
-    <value>Изтеглянето не бе успешно</value>
+    <value>Изтеглянето не бе успешно.</value>
     <comment>Download failed.</comment>
   </data>
 </root>
