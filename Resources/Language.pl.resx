@@ -211,8 +211,8 @@
     <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
-    <value>Installation failed with error code: {0} 
-Click here to show the log file.</value>
+    <value>Instalacja nie powiodła się. Kod błedu: {0} 
+Kliknij tutaj, aby wyświetlić plik dziennika.</value>
     <comment>Installation failed with error code: {0} 
 Click here to show the log file.</comment>
   </data>
@@ -257,12 +257,12 @@ Click here to show the log file.</comment>
     <comment>Mute</comment>
   </data>
   <data name="InstallationForm_Unmute" xml:space="preserve">
-    <value>Unmute</value>
+    <value>Wycisz</value>
     <comment>Unmute</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
-    <value>Installation failed.
-({0}) {1} Click here to show the log file.</value>
+    <value>Instalacja nie powiodła się.
+({0}) {1} Kliknij tutaj, aby wyświetlić plik dziennika.</value>
     <comment>Installation failed.
 ({0}) {1} Click here to show the log file.</comment>
   </data>
@@ -271,11 +271,11 @@ Click here to show the log file.</comment>
     <comment>Download Failed</comment>
   </data>
   <data name="InstallationForm_ShowLogFile" xml:space="preserve">
-    <value>Show Log File</value>
+    <value>Wyświetl plik dziennika</value>
     <comment>Show Log File</comment>
   </data>
   <data name="Status_DownloadFailed" xml:space="preserve">
-    <value>Download failed.</value>
+    <value>Pobieranie nie powiodło się.</value>
     <comment>Download failed.</comment>
   </data>
 </root>
