@@ -179,7 +179,7 @@
     <comment>Pin Mailbird to Taskbar</comment>
   </data>
   <data name="InstallationForm_StartMailbird" xml:space="preserve">
-    <value>Mailbird openen</value>
+    <value>Mailbird starten</value>
     <comment>Start Mailbird</comment>
   </data>
   <data name="InstallationForm_Status" xml:space="preserve">
@@ -211,8 +211,8 @@
     <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
-    <value>Installation failed with error code: {0} 
-Click here to show the log file.</value>
+    <value>Installatie mislukt met foutcode: {0} 
+Klik hier om het logboekbestand te tonen.</value>
     <comment>Installation failed with error code: {0} 
 Click here to show the log file.</comment>
   </data>
@@ -257,12 +257,12 @@ Click here to show the log file.</comment>
     <comment>Mute</comment>
   </data>
   <data name="InstallationForm_Unmute" xml:space="preserve">
-    <value>Unmute</value>
+    <value>Niet dempen</value>
     <comment>Unmute</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
-    <value>Installation failed.
-({0}) {1} Click here to show the log file.</value>
+    <value>Installatie mislukt.
+({0}) {1} Klik hier om het logboekbestand te tonen.</value>
     <comment>Installation failed.
 ({0}) {1} Click here to show the log file.</comment>
   </data>
@@ -271,11 +271,11 @@ Click here to show the log file.</comment>
     <comment>Download Failed</comment>
   </data>
   <data name="InstallationForm_ShowLogFile" xml:space="preserve">
-    <value>Show Log File</value>
+    <value>Logboekbestand tonen</value>
     <comment>Show Log File</comment>
   </data>
   <data name="Status_DownloadFailed" xml:space="preserve">
-    <value>Download failed.</value>
+    <value>Downloaden mislukt.</value>
     <comment>Download failed.</comment>
   </data>
 </root>
