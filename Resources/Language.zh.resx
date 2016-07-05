@@ -151,7 +151,7 @@
     <comment>Launching {0}</comment>
   </data>
   <data name="Dialog_UnableLaunchExplanation" xml:space="preserve">
-    <value>请使用桌面快捷方式来启动{0}</value>
+    <value>请使用桌面快捷方式来启动{0}.</value>
     <comment>Please launch {0} using the shortcut on the desktop.</comment>
   </data>
   <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
@@ -211,8 +211,8 @@
     <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
-    <value>Installation failed with error code: {0} 
-Click here to show the log file.</value>
+    <value>安装失败. 错误代码: {0}
+点击这里显示日志文件.</value>
     <comment>Installation failed with error code: {0} 
 Click here to show the log file.</comment>
   </data>
@@ -275,7 +275,7 @@ Click here to show the log file.</comment>
     <comment>Show Log File</comment>
   </data>
   <data name="Status_DownloadFailed" xml:space="preserve">
-    <value>Download failed.</value>
+    <value>下载失败.</value>
     <comment>Download failed.</comment>
   </data>
 </root>
