@@ -147,7 +147,7 @@
     <comment>Would you like to download and try the offline installer instead?</comment>
   </data>
   <data name="Dialog_UnableLaunch" xml:space="preserve">
-    <value>Starte {0} ...</value>
+    <value>Starte {0}</value>
     <comment>Launching {0}</comment>
   </data>
   <data name="Dialog_UnableLaunchExplanation" xml:space="preserve">
@@ -211,8 +211,8 @@
     <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
-    <value>Installation failed with error code: {0} 
-Click here to show the log file.</value>
+    <value>Die Installation ist mit folgendem Fehlercode gescheitert: {0} 
+Klicke hier um Dir die Protokolldatei anzusehen.</value>
     <comment>Installation failed with error code: {0} 
 Click here to show the log file.</comment>
   </data>
@@ -225,7 +225,7 @@ Click here to show the log file.</comment>
     <comment>Installing {0}...</comment>
   </data>
   <data name="InstallationForm_RunStartup" xml:space="preserve">
-    <value>Zusammen mit Windows starten</value>
+    <value>Automatisch zusammen mit Windows starten</value>
     <comment>Start automatically with Windows</comment>
   </data>
   <data name="InstallationForm_Continue" xml:space="preserve">
@@ -257,12 +257,12 @@ Click here to show the log file.</comment>
     <comment>Mute</comment>
   </data>
   <data name="InstallationForm_Unmute" xml:space="preserve">
-    <value>Unmute</value>
+    <value>Stummschaltung aufheben</value>
     <comment>Unmute</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
-    <value>Installation failed.
-({0}) {1} Click here to show the log file.</value>
+    <value>Installstallation gescheitert.
+({0}) {1} Klicke hier um Dir die Protokolldatei anzuschauen.</value>
     <comment>Installation failed.
 ({0}) {1} Click here to show the log file.</comment>
   </data>
@@ -271,11 +271,11 @@ Click here to show the log file.</comment>
     <comment>Download Failed</comment>
   </data>
   <data name="InstallationForm_ShowLogFile" xml:space="preserve">
-    <value>Show Log File</value>
+    <value>Zeige die Protokolldatei</value>
     <comment>Show Log File</comment>
   </data>
   <data name="Status_DownloadFailed" xml:space="preserve">
-    <value>Download failed.</value>
+    <value>Download gescheitert.</value>
     <comment>Download failed.</comment>
   </data>
 </root>
