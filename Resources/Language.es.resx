@@ -122,11 +122,11 @@
     <comment>Cancel Installation</comment>
   </data>
   <data name="Dialog_CancelInstallationExplanation" xml:space="preserve">
-    <value>¿Estás seguro que deseas cancelar la instalación de {0}?</value>
+    <value>¿Está seguro que deseas cancelar la instalación de {0}?</value>
     <comment>Are you sure you want to cancel the {0} installation?</comment>
   </data>
   <data name="Dialog_DownloadFailedExplanation" xml:space="preserve">
-    <value>Cannot download {0} setup file. Would you like to download and try the offline installer instead?</value>
+    <value>No se puede descargar el archivo de instalación. Quieres descargar y probar el instalador sin conexión?</value>
     <comment>Cannot download {0} setup file.
  Would you like to download and try the offline installer instead?</comment>
   </data>
@@ -211,8 +211,8 @@
     <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
-    <value>Installation failed with error code: {0} 
-Click here to show the log file.</value>
+    <value>Instalación fallida con el código de error: {0} 
+Click aqui para mostrar el archivo de bitacora.</value>
     <comment>Installation failed with error code: {0} 
 Click here to show the log file.</comment>
   </data>
@@ -237,7 +237,7 @@ Click here to show the log file.</comment>
     <comment>Share with Friends</comment>
   </data>
   <data name="InstallationForm_Replay" xml:space="preserve">
-    <value>Click here to play the video</value>
+    <value>Click aqui para reproducir el video</value>
     <comment>Click here to play the video</comment>
   </data>
   <data name="InstallationForm_RightClick" xml:space="preserve">
@@ -253,29 +253,29 @@ Click here to show the log file.</comment>
     <comment>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</comment>
   </data>
   <data name="InstallationForm_Mute" xml:space="preserve">
-    <value>Mute</value>
+    <value>Silenciar</value>
     <comment>Mute</comment>
   </data>
   <data name="InstallationForm_Unmute" xml:space="preserve">
-    <value>Unmute</value>
+    <value>Activar sonido</value>
     <comment>Unmute</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
-    <value>Installation failed.
-({0}) {1} Click here to show the log file.</value>
+    <value>Instalación fallida.
+({0}) {1} Click aqui para mostrar el archivo de bitácora.</value>
     <comment>Installation failed.
 ({0}) {1} Click here to show the log file.</comment>
   </data>
   <data name="Dialog_DownloadFailed" xml:space="preserve">
-    <value>Download Failed</value>
+    <value>Descarga fallida</value>
     <comment>Download Failed</comment>
   </data>
   <data name="InstallationForm_ShowLogFile" xml:space="preserve">
-    <value>Show Log File</value>
+    <value>Mostrar archivo de bitácora</value>
     <comment>Show Log File</comment>
   </data>
   <data name="Status_DownloadFailed" xml:space="preserve">
-    <value>Download failed.</value>
+    <value>Descarga fallida.</value>
     <comment>Download failed.</comment>
   </data>
 </root>
