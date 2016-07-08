@@ -1,2 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?>
-<root></root>
+<?xml version='1.0' encoding='UTF-8'?>
+<root><data name="Dialog_CancelInstallation" xml:space="preserve">
+    <value>Cancelar Instalação</value>
+    <comment>Cancel Installation</comment>
+  </data>
+  <data name="Dialog_CancelInstallationExplanation" xml:space="preserve">
+    <value>Tem certeza que deseja cancelar a {0} instalação?</value>
+    <comment>Are you sure you want to cancel the {0} installation?</comment>
+  </data>
+  <data name="Dialog_DownloadFailedExplanation" xml:space="preserve">
+    <value>Não foi possível baixar o {0} arquivo de instalação. Gostaria de baixar e tentar o instalador offline?</value>
+    <comment>Cannot download {0} setup file.
+ Would you like to download and try the offline installer instead?</comment>
+  </data>
+  <data name="Dialog_InvalidLocation" xml:space="preserve">
+    <value>Local Inválido</value>
+    <comment>Invalid Location</comment>
+  </data>
+  <data name="Dialog_InvalidLocationExplanation" xml:space="preserve">
+    <value>Mailbird não pode ser instalado num local com caracteres que não são da língua inglesa no caminho. Por favor, selecione um local diferente.</value>
+    <comment>Mailbird cannot be installed to a location with non-English characters in the path. Please select a different location.</comment>
+  </data>
+  <data name="Dialog_OfflineInstaller" xml:space="preserve">
+    <value>Baixar Instalador Offline</value>
+    <comment>Download Offline Installer</comment>
+  </data>
+  <data name="Dialog_OfflineInstallerExplanation" xml:space="preserve">
+    <value>Gostaria de baixar e tentar o instalador offline como alternativa?</value>
+    <comment>Would you like to download and try the offline installer instead?</comment>
+  </data>
+  <data name="Dialog_UnableLaunch" xml:space="preserve">
+    <value>Iniciando {0}</value>
+    <comment>Launching {0}</comment>
+  </data>
+  </root>
