@@ -261,7 +261,7 @@ Click here to show the log file.</comment>
     <comment>Unmute</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
-    <value>Installstallation gescheitert.
+    <value>Installation fehlgeschlagen.
 ({0}) {1} Klicke hier um Dir die Protokolldatei anzuschauen.</value>
     <comment>Installation failed.
 ({0}) {1} Click here to show the log file.</comment>
