@@ -179,7 +179,7 @@
     <comment>Pin Mailbird to Taskbar</comment>
   </data>
   <data name="InstallationForm_StartMailbird" xml:space="preserve">
-    <value>开始使用Mailbird</value>
+    <value>启动Mailbird</value>
     <comment>Start Mailbird</comment>
   </data>
   <data name="InstallationForm_Status" xml:space="preserve">
@@ -257,12 +257,12 @@ Click here to show the log file.</comment>
     <comment>Mute</comment>
   </data>
   <data name="InstallationForm_Unmute" xml:space="preserve">
-    <value>Unmute</value>
+    <value>停止静音</value>
     <comment>Unmute</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
-    <value>Installation failed.
-({0}) {1} Click here to show the log file.</value>
+    <value>安装失败.
+({0}) {1} 点击这里显示记录文件.</value>
     <comment>Installation failed.
 ({0}) {1} Click here to show the log file.</comment>
   </data>
@@ -271,7 +271,7 @@ Click here to show the log file.</comment>
     <comment>Download Failed</comment>
   </data>
   <data name="InstallationForm_ShowLogFile" xml:space="preserve">
-    <value>Show Log File</value>
+    <value>显示记录文件</value>
     <comment>Show Log File</comment>
   </data>
   <data name="Status_DownloadFailed" xml:space="preserve">
