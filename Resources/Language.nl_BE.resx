@@ -1,2 +1,163 @@
-<?xml version="1.0" encoding="utf-8"?>
-<root></root>
+<?xml version='1.0' encoding='UTF-8'?>
+<root><data name="Dialog_CancelInstallation" xml:space="preserve">
+    <value>Annuleer Installatie</value>
+    <comment>Cancel Installation</comment>
+  </data>
+  <data name="Dialog_CancelInstallationExplanation" xml:space="preserve">
+    <value>Ben je er zeker van dat je de {0} installatie wil stoppen?</value>
+    <comment>Are you sure you want to cancel the {0} installation?</comment>
+  </data>
+  <data name="Dialog_DownloadFailedExplanation" xml:space="preserve">
+    <value>Kan het {0} setup bestand niet downloaden. Wil je in plaats hiervan de offline installeerder downloaden en uitproberen?</value>
+    <comment>Cannot download {0} setup file.
+ Would you like to download and try the offline installer instead?</comment>
+  </data>
+  <data name="Dialog_InvalidLocation" xml:space="preserve">
+    <value>Ongeldige Locatie</value>
+    <comment>Invalid Location</comment>
+  </data>
+  <data name="Dialog_InvalidLocationExplanation" xml:space="preserve">
+    <value>Mailbird kan niet geïnstalleerd worden op een locatie met niet-Engelse karakters in het pad. Gelieve een andere locatie te kiezen.</value>
+    <comment>Mailbird cannot be installed to a location with non-English characters in the path. Please select a different location.</comment>
+  </data>
+  <data name="Dialog_OfflineInstaller" xml:space="preserve">
+    <value>Download De Offline Installeerder</value>
+    <comment>Download Offline Installer</comment>
+  </data>
+  <data name="Dialog_OfflineInstallerExplanation" xml:space="preserve">
+    <value>Wil je in plaats hiervan de offline installeerder downloaden en uitproberen?</value>
+    <comment>Would you like to download and try the offline installer instead?</comment>
+  </data>
+  <data name="Dialog_UnableLaunch" xml:space="preserve">
+    <value>Starten {0}</value>
+    <comment>Launching {0}</comment>
+  </data>
+  <data name="Dialog_UnableLaunchExplanation" xml:space="preserve">
+    <value>Gelieve de desktop shortcut te gebruiken om te starten {0}.</value>
+    <comment>Please launch {0} using the shortcut on the desktop.</comment>
+  </data>
+  <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
+    <value>Creëer shortcut op Desktop</value>
+    <comment>Create shortcut on Desktop</comment>
+  </data>
+  <data name="InstallationForm_Directory" xml:space="preserve">
+    <value>Installatie folder:</value>
+    <comment>Installation folder:</comment>
+  </data>
+  <data name="InstallationForm_InstallMailbird" xml:space="preserve">
+    <value>Installeer Mailbird</value>
+    <comment>Install Mailbird</comment>
+  </data>
+  <data name="InstallationForm_Language" xml:space="preserve">
+    <value>Taal:</value>
+    <comment>Language:</comment>
+  </data>
+  <data name="InstallationForm_PinStartMenu" xml:space="preserve">
+    <value>Mailbird vastpinnen aan Start menu</value>
+    <comment>Pin Mailbird to Start menu</comment>
+  </data>
+  <data name="InstallationForm_PinTaskbar" xml:space="preserve">
+    <value>Mailbird vastpinnen aan Taakbalk</value>
+    <comment>Pin Mailbird to Taskbar</comment>
+  </data>
+  <data name="InstallationForm_StartMailbird" xml:space="preserve">
+    <value>Mailbird Starten</value>
+    <comment>Start Mailbird</comment>
+  </data>
+  <data name="InstallationForm_Status" xml:space="preserve">
+    <value>Bezig met installeren...</value>
+    <comment>Installing...</comment>
+  </data>
+  <data name="InstallationForm_Title" xml:space="preserve">
+    <value>{0} Installeerder</value>
+    <comment>{0} Installer</comment>
+  </data>
+  <data name="InstallationForm_Version" xml:space="preserve">
+    <value>Versie:</value>
+    <comment>Version:</comment>
+  </data>
+  <data name="Status_AlreadyInstalled" xml:space="preserve">
+    <value>{0} is reeds geïnstalleerd.</value>
+    <comment>{0} is already installed.</comment>
+  </data>
+  <data name="Status_Downloading" xml:space="preserve">
+    <value>Aan het downloaden...</value>
+    <comment>Downloading...</comment>
+  </data>
+  <data name="Status_DownloadProgress" xml:space="preserve">
+    <value>Downloaden van {0} Setup... ({1}%)</value>
+    <comment>Downloading {0} Setup... ({1}%)</comment>
+  </data>
+  <data name="Status_InstallationCompleted" xml:space="preserve">
+    <value>Installatie is voltooid</value>
+    <comment>Installation is completed</comment>
+  </data>
+  <data name="Status_InstallationFailed" xml:space="preserve">
+    <value>Installatie is mislukt.</value>
+    <comment>Installation failed.</comment>
+  </data>
+  <data name="Status_InstallationErrorCode" xml:space="preserve">
+    <value>Installatie is mislukt met foutcode: {0} 
+Klik hier om het logbestand te zien.</value>
+    <comment>Installation failed with error code: {0} 
+Click here to show the log file.</comment>
+  </data>
+  <data name="Status_Installing" xml:space="preserve">
+    <value>Bezig met installeren {0}...</value>
+    <comment>Installing {0}...</comment>
+  </data>
+  <data name="InstallationForm_RunStartup" xml:space="preserve">
+    <value>Automatisch starten met Windows</value>
+    <comment>Start automatically with Windows</comment>
+  </data>
+  <data name="InstallationForm_Continue" xml:space="preserve">
+    <value>Verdergaan</value>
+    <comment>Continue</comment>
+  </data>
+  <data name="InstallationForm_Share" xml:space="preserve">
+    <value>Delen met Vrienden</value>
+    <comment>Share with Friends</comment>
+  </data>
+  <data name="InstallationForm_Replay" xml:space="preserve">
+    <value>Klik hier om de video af te spelen</value>
+    <comment>Click here to play the video</comment>
+  </data>
+  <data name="InstallationForm_RightClick" xml:space="preserve">
+    <value>Klik hier met de rechtermuisknop om de besturingsopties te zien</value>
+    <comment>Right click here to show player control</comment>
+  </data>
+  <data name="Dialog_VideoError" xml:space="preserve">
+    <value>Video kan niet worden afgespeeld</value>
+    <comment>Video can't be played</comment>
+  </data>
+  <data name="Dialog_VideoErrorExplanation" xml:space="preserve">
+    <value>Er is een fout opgetreden bij het proberen afspelen van de introductie video. Wil je onze tips en trucs pagina bezoeken om meer te leren over Mailbird?</value>
+    <comment>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</comment>
+  </data>
+  <data name="InstallationForm_Mute" xml:space="preserve">
+    <value>Dempen</value>
+    <comment>Mute</comment>
+  </data>
+  <data name="InstallationForm_Unmute" xml:space="preserve">
+    <value>Dempen uit</value>
+    <comment>Unmute</comment>
+  </data>
+  <data name="Status_InstallationErrorMessage" xml:space="preserve">
+    <value>Installatie mislukt.
+({0}) {1}Klik hier om de log file te zien.</value>
+    <comment>Installation failed.
+({0}) {1} Click here to show the log file.</comment>
+  </data>
+  <data name="Dialog_DownloadFailed" xml:space="preserve">
+    <value>Download Mislukt</value>
+    <comment>Download Failed</comment>
+  </data>
+  <data name="InstallationForm_ShowLogFile" xml:space="preserve">
+    <value>Toon Logbestand</value>
+    <comment>Show Log File</comment>
+  </data>
+  <data name="Status_DownloadFailed" xml:space="preserve">
+    <value>Download mislukt.</value>
+    <comment>Download failed.</comment>
+  </data>
+</root>
