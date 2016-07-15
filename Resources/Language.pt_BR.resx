@@ -32,4 +32,132 @@
     <value>Iniciando {0}</value>
     <comment>Launching {0}</comment>
   </data>
-  </root>
+  <data name="Dialog_UnableLaunchExplanation" xml:space="preserve">
+    <value>Por favor, inicie {0} usando o atalho na área de trabalho.</value>
+    <comment>Please launch {0} using the shortcut on the desktop.</comment>
+  </data>
+  <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
+    <value>Criar atalho da área de trabalho</value>
+    <comment>Create shortcut on Desktop</comment>
+  </data>
+  <data name="InstallationForm_Directory" xml:space="preserve">
+    <value>Pasta de instalação:</value>
+    <comment>Installation folder:</comment>
+  </data>
+  <data name="InstallationForm_InstallMailbird" xml:space="preserve">
+    <value>Instalar Mailbird</value>
+    <comment>Install Mailbird</comment>
+  </data>
+  <data name="InstallationForm_Language" xml:space="preserve">
+    <value>Idioma:</value>
+    <comment>Language:</comment>
+  </data>
+  <data name="InstallationForm_PinStartMenu" xml:space="preserve">
+    <value>Fixar Mailbird no Menu Iniciar</value>
+    <comment>Pin Mailbird to Start menu</comment>
+  </data>
+  <data name="InstallationForm_PinTaskbar" xml:space="preserve">
+    <value>Fixar Mailbird na Barra de Tarefas</value>
+    <comment>Pin Mailbird to Taskbar</comment>
+  </data>
+  <data name="InstallationForm_StartMailbird" xml:space="preserve">
+    <value>Abrir o Mailbird</value>
+    <comment>Start Mailbird</comment>
+  </data>
+  <data name="InstallationForm_Status" xml:space="preserve">
+    <value>Instalando...</value>
+    <comment>Installing...</comment>
+  </data>
+  <data name="InstallationForm_Title" xml:space="preserve">
+    <value>{0} Instalador</value>
+    <comment>{0} Installer</comment>
+  </data>
+  <data name="InstallationForm_Version" xml:space="preserve">
+    <value>Versão:</value>
+    <comment>Version:</comment>
+  </data>
+  <data name="Status_AlreadyInstalled" xml:space="preserve">
+    <value>{0} já está instalado.</value>
+    <comment>{0} is already installed.</comment>
+  </data>
+  <data name="Status_Downloading" xml:space="preserve">
+    <value>Baixando...</value>
+    <comment>Downloading...</comment>
+  </data>
+  <data name="Status_DownloadProgress" xml:space="preserve">
+    <value>Baixando {0} Instalador... ({1}%)</value>
+    <comment>Downloading {0} Setup... ({1}%)</comment>
+  </data>
+  <data name="Status_InstallationCompleted" xml:space="preserve">
+    <value>Instalação concluída</value>
+    <comment>Installation is completed</comment>
+  </data>
+  <data name="Status_InstallationErrorCode" xml:space="preserve">
+    <value>Instalação falhou com o código de erro: {0} 
+Clique aqui para ver o arquivo com o registro dos eventos.</value>
+    <comment>Installation failed with error code: {0} 
+Click here to show the log file.</comment>
+  </data>
+  <data name="Status_InstallationFailed" xml:space="preserve">
+    <value>Instalação falhou.</value>
+    <comment>Installation failed.</comment>
+  </data>
+  <data name="Status_Installing" xml:space="preserve">
+    <value>Instalando {0}...</value>
+    <comment>Installing {0}...</comment>
+  </data>
+  <data name="InstallationForm_RunStartup" xml:space="preserve">
+    <value>Iniciar automaticamente com o Windows</value>
+    <comment>Start automatically with Windows</comment>
+  </data>
+  <data name="InstallationForm_Continue" xml:space="preserve">
+    <value>Continuar</value>
+    <comment>Continue</comment>
+  </data>
+  <data name="InstallationForm_Share" xml:space="preserve">
+    <value>Compartilhar com os Amigos</value>
+    <comment>Share with Friends</comment>
+  </data>
+  <data name="InstallationForm_Replay" xml:space="preserve">
+    <value>Clique aqui para reproduzir o vídeo</value>
+    <comment>Click here to play the video</comment>
+  </data>
+  <data name="InstallationForm_RightClick" xml:space="preserve">
+    <value>Clique com o botão direito para mostrar o controle de reprodução</value>
+    <comment>Right click here to show player control</comment>
+  </data>
+  <data name="Dialog_VideoError" xml:space="preserve">
+    <value>O vídeo não pode ser reproduzido</value>
+    <comment>Video can't be played</comment>
+  </data>
+  <data name="Dialog_VideoErrorExplanation" xml:space="preserve">
+    <value>Ocorreu um erro ao tentar reproduzir o vídeo de introdução. Gostaria de visitar nossa página de dicas e truques para aprender mais sobre o Mailbird?</value>
+    <comment>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</comment>
+  </data>
+  <data name="InstallationForm_Mute" xml:space="preserve">
+    <value>Silencioso</value>
+    <comment>Mute</comment>
+  </data>
+  <data name="InstallationForm_Unmute" xml:space="preserve">
+    <value>Tirar do silencioso</value>
+    <comment>Unmute</comment>
+  </data>
+  <data name="Status_InstallationErrorMessage" xml:space="preserve">
+    <value>Falha na instalação.
+({0}) {1} Clique aqui para ver o arquivo de registro de eventos.</value>
+    <comment>Installation failed.
+({0}) {1} Click here to show the log file.</comment>
+  </data>
+  <data name="Dialog_DownloadFailed" xml:space="preserve">
+    <value>Falha no Download</value>
+    <comment>Download Failed</comment>
+  </data>
+  <data name="InstallationForm_ShowLogFile" xml:space="preserve">
+    <value>Mostrar o arquivo de registro de eventos</value>
+    <comment>Show Log File</comment>
+  </data>
+  <data name="Status_DownloadFailed" xml:space="preserve">
+    <value>Falha no Download.</value>
+    <comment>Download failed.</comment>
+  </data>
+</root>
