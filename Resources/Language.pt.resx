@@ -126,7 +126,7 @@
     <comment>Are you sure you want to cancel the {0} installation?</comment>
   </data>
   <data name="Dialog_DownloadFailedExplanation" xml:space="preserve">
-    <value>Não foi possível transferir o ficheiro de configuração {0}. Gostaria de transferir e experimentar o instalador offline em alternativa? </value>
+    <value>Não foi possível transferir o ficheiro de configuração {0}. Gostaria de transferir e experimentar o instalador offline em alternativa?</value>
     <comment>Cannot download {0} setup file.
  Would you like to download and try the offline installer instead?</comment>
   </data>
