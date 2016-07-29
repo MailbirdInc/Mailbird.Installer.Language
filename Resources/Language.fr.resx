@@ -118,15 +118,15 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Dialog_CancelInstallation" xml:space="preserve">
-    <value>Annuler l&apos;installation</value>
+    <value>Annuler l'installation</value>
     <comment>Cancel Installation</comment>
   </data>
   <data name="Dialog_CancelInstallationExplanation" xml:space="preserve">
-    <value>Etes-vous sûr de vouloir annuler l&apos;installation de {0} ?</value>
+    <value>Etes-vous sûr de vouloir annuler l'installation de {0} ?</value>
     <comment>Are you sure you want to cancel the {0} installation?</comment>
   </data>
   <data name="Dialog_DownloadFailedExplanation" xml:space="preserve">
-    <value>Impossible de télécharger le fichier d&apos;installation de {0}. Voulez-vous télécharger le programme d&apos;installation hors ligne à la place ?</value>
+    <value>Impossible de télécharger le fichier d'installation de {0}. Voulez-vous télécharger le programme d'installation hors ligne à la place ?</value>
     <comment>Cannot download {0} setup file.
  Would you like to download and try the offline installer instead?</comment>
   </data>
@@ -139,11 +139,11 @@
     <comment>Mailbird cannot be installed to a location with non-English characters in the path. Please select a different location.</comment>
   </data>
   <data name="Dialog_OfflineInstaller" xml:space="preserve">
-    <value>Télécharger le programme d&apos;installation hors ligne</value>
+    <value>Télécharger le programme d'installation hors ligne</value>
     <comment>Download Offline Installer</comment>
   </data>
   <data name="Dialog_OfflineInstallerExplanation" xml:space="preserve">
-    <value>Voulez-vous télécharger le programme d&apos;installation hors ligne à la place ?</value>
+    <value>Voulez-vous télécharger le programme d'installation hors ligne à la place ?</value>
     <comment>Would you like to download and try the offline installer instead?</comment>
   </data>
   <data name="Dialog_UnableLaunch" xml:space="preserve">
@@ -159,7 +159,7 @@
     <comment>Create shortcut on Desktop</comment>
   </data>
   <data name="InstallationForm_Directory" xml:space="preserve">
-    <value>Dossier d&apos;installation :</value>
+    <value>Dossier d'installation :</value>
     <comment>Installation folder:</comment>
   </data>
   <data name="InstallationForm_InstallMailbird" xml:space="preserve">
@@ -203,7 +203,7 @@
     <comment>Downloading...</comment>
   </data>
   <data name="Status_DownloadProgress" xml:space="preserve">
-    <value>Téléchargement de l&apos;installation de {0}... ({1}%)</value>
+    <value>Téléchargement de l'installation de {0}... ({1}%)</value>
     <comment>Downloading {0} Setup... ({1}%)</comment>
   </data>
   <data name="Status_InstallationCompleted" xml:space="preserve">
@@ -211,13 +211,13 @@
     <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
-    <value>Installation failed with error code: {0} 
-Click here to show the log file.</value>
+    <value>L'installation a échoué avec le code d'erreur: {0}
+Cliquez ici pour afficher le fichier journal.</value>
     <comment>Installation failed with error code: {0} 
 Click here to show the log file.</comment>
   </data>
   <data name="Status_InstallationFailed" xml:space="preserve">
-    <value>L&apos;installation a échoué.</value>
+    <value>L'installation a échoué.</value>
     <comment>Installation failed.</comment>
   </data>
   <data name="Status_Installing" xml:space="preserve">
@@ -249,7 +249,7 @@ Click here to show the log file.</comment>
     <comment>Video can't be played</comment>
   </data>
   <data name="Dialog_VideoErrorExplanation" xml:space="preserve">
-    <value>Il y eu une erreur lors de la lecture de la vidéo d&apos;introduction. Voulez-vous visiter nos page d&apos;aide pour en savoir plus sur Mailbird ?</value>
+    <value>Il y eu une erreur lors de la lecture de la vidéo d'introduction. Voulez-vous visiter nos page d'aide pour en savoir plus sur Mailbird ?</value>
     <comment>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</comment>
   </data>
   <data name="InstallationForm_Mute" xml:space="preserve">
@@ -257,12 +257,12 @@ Click here to show the log file.</comment>
     <comment>Mute</comment>
   </data>
   <data name="InstallationForm_Unmute" xml:space="preserve">
-    <value>Unmute</value>
+    <value>Réactiver le son</value>
     <comment>Unmute</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
-    <value>Installation failed.
-({0}) {1} Click here to show the log file.</value>
+    <value>L'installation a échoué.
+({0}) {1} Cliquez ici pour afficher le fichier journal.</value>
     <comment>Installation failed.
 ({0}) {1} Click here to show the log file.</comment>
   </data>
@@ -271,11 +271,11 @@ Click here to show the log file.</comment>
     <comment>Download Failed</comment>
   </data>
   <data name="InstallationForm_ShowLogFile" xml:space="preserve">
-    <value>Show Log File</value>
+    <value>Afficher le fichier journal</value>
     <comment>Show Log File</comment>
   </data>
   <data name="Status_DownloadFailed" xml:space="preserve">
-    <value>Download failed.</value>
+    <value>Échec du téléchargement.</value>
     <comment>Download failed.</comment>
   </data>
 </root>
