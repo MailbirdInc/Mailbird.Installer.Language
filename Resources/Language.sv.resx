@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -118,76 +118,76 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Dialog_CancelInstallation" xml:space="preserve">
-    <value>Cancel Installation</value>
+    <value>Avbryt installation</value>
     <comment>Cancel Installation</comment>
   </data>
   <data name="Dialog_CancelInstallationExplanation" xml:space="preserve">
-    <value>Are you sure you want to cancel the {0} installation?</value>
+    <value>Är du säker på att du vill avbryta installationen av {0}?</value>
     <comment>Are you sure you want to cancel the {0} installation?</comment>
   </data>
   <data name="Dialog_DownloadFailedExplanation" xml:space="preserve">
-    <value>Cannot download {0} setup file. Would you like to download and try the offline installer instead?</value>
+    <value>Kan inte hämta {0} installationsfilen. Vill du ladda ner och testa offlineinstallationen istället?</value>
     <comment>Cannot download {0} setup file.
  Would you like to download and try the offline installer instead?</comment>
   </data>
   <data name="Dialog_InvalidLocation" xml:space="preserve">
-    <value>Invalid Location</value>
+    <value>Ogiltig plats</value>
     <comment>Invalid Location</comment>
   </data>
   <data name="Dialog_InvalidLocationExplanation" xml:space="preserve">
-    <value>Mailbird cannot be installed to a location with non-English characters in the path. Please select a different location.</value>
+    <value>Mailbird kan inte installeras till en plast med icke-engelska bokstäver i filsökvägen. Var vänlig välj en annan plats.</value>
     <comment>Mailbird cannot be installed to a location with non-English characters in the path. Please select a different location.</comment>
   </data>
   <data name="Dialog_OfflineInstaller" xml:space="preserve">
-    <value>Download Offline Installer</value>
+    <value>Ladda ner offlineinstallation</value>
     <comment>Download Offline Installer</comment>
   </data>
   <data name="Dialog_OfflineInstallerExplanation" xml:space="preserve">
-    <value>Would you like to download and try the offline installer instead?</value>
+    <value>Vill du ladda ner och testa offlineinstallationen istället?</value>
     <comment>Would you like to download and try the offline installer instead?</comment>
   </data>
   <data name="Dialog_UnableLaunch" xml:space="preserve">
-    <value>Launching {0}</value>
+    <value>Startar {0}</value>
     <comment>Launching {0}</comment>
   </data>
   <data name="Dialog_UnableLaunchExplanation" xml:space="preserve">
-    <value>Please launch {0} using the shortcut on the desktop.</value>
+    <value>Starta {0} genom att använda genvägen på skrivbordet.</value>
     <comment>Please launch {0} using the shortcut on the desktop.</comment>
   </data>
   <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
-    <value>Create shortcut on Desktop</value>
+    <value>Skapa genväg på skrivbordet</value>
     <comment>Create shortcut on Desktop</comment>
   </data>
   <data name="InstallationForm_Directory" xml:space="preserve">
-    <value>Installation folder:</value>
+    <value>Installationsmapp:</value>
     <comment>Installation folder:</comment>
   </data>
   <data name="InstallationForm_InstallMailbird" xml:space="preserve">
-    <value>Install Mailbird</value>
+    <value>Installera Mailbird</value>
     <comment>Install Mailbird</comment>
   </data>
   <data name="InstallationForm_Language" xml:space="preserve">
-    <value>Language:</value>
+    <value>Språk:</value>
     <comment>Language:</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
-    <value>Pin Mailbird to Start menu</value>
+    <value>Fäst Mailbird på startmenyn</value>
     <comment>Pin Mailbird to Start menu</comment>
   </data>
   <data name="InstallationForm_PinTaskbar" xml:space="preserve">
-    <value>Pin Mailbird to Taskbar</value>
+    <value>Fäst Mailbird i aktivitetsfältet</value>
     <comment>Pin Mailbird to Taskbar</comment>
   </data>
   <data name="InstallationForm_StartMailbird" xml:space="preserve">
-    <value>Start Mailbird</value>
+    <value>Starta Mailbird</value>
     <comment>Start Mailbird</comment>
   </data>
   <data name="InstallationForm_Status" xml:space="preserve">
-    <value>Installing...</value>
+    <value>Installerar...</value>
     <comment>Installing...</comment>
   </data>
   <data name="InstallationForm_Title" xml:space="preserve">
-    <value>{0} Installer</value>
+    <value>{0} Installation</value>
     <comment>{0} Installer</comment>
   </data>
   <data name="InstallationForm_Version" xml:space="preserve">
@@ -195,83 +195,85 @@
     <comment>Version:</comment>
   </data>
   <data name="Status_AlreadyInstalled" xml:space="preserve">
-    <value>{0} is already installed.</value>
+    <value>{0} är redan installerat.</value>
     <comment>{0} is already installed.</comment>
   </data>
   <data name="Status_Downloading" xml:space="preserve">
-    <value>Downloading...</value>
+    <value>Laddar ner...</value>
     <comment>Downloading...</comment>
   </data>
   <data name="Status_DownloadProgress" xml:space="preserve">
-    <value>Downloading {0} Setup... ({1}%)</value>
+    <value>Laddar ner {0} installationsfil... ({1}%)</value>
     <comment>Downloading {0} Setup... ({1}%)</comment>
   </data>
   <data name="Status_InstallationCompleted" xml:space="preserve">
-    <value>Installation is completed</value>
+    <value>Installationen är slutförd</value>
     <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
-    <value>Installation failed with error code: {0}</value>
+    <value>Installationen misslyckades med felkod: {0}
+Klicka här för att visa loggfilen.</value>
     <comment>Installation failed with error code: {0}</comment>
   </data>
   <data name="Status_InstallationFailed" xml:space="preserve">
-    <value>Installation failed.</value>
+    <value>Installationen misslyckades.</value>
     <comment>Installation failed.</comment>
   </data>
   <data name="Status_Installing" xml:space="preserve">
-    <value>Installing {0}...</value>
+    <value>Installerar {0}...</value>
     <comment>Installing {0}...</comment>
   </data>
   <data name="InstallationForm_RunStartup" xml:space="preserve">
-    <value>Start automatically with Windows</value>
+    <value>Starta automatiskt med Windows</value>
     <comment>Start automatically with Windows</comment>
   </data>
   <data name="InstallationForm_Continue" xml:space="preserve">
-    <value>Continue</value>
+    <value>Fortsätt</value>
     <comment>Continue</comment>
   </data>
   <data name="InstallationForm_Share" xml:space="preserve">
-    <value>Share with Friends</value>
+    <value>Dela med vänner</value>
     <comment>Share with Friends</comment>
   </data>
   <data name="InstallationForm_Replay" xml:space="preserve">
-    <value>Click here to play the video</value>
+    <value>Klicka här för att spela videon</value>
     <comment>Click here to play the video</comment>
   </data>
   <data name="InstallationForm_RightClick" xml:space="preserve">
-    <value>Right click here to show player control</value>
+    <value>Högerklicka här för att visa spelarkontroller</value>
     <comment>Right click here to show player control</comment>
   </data>
   <data name="Dialog_VideoError" xml:space="preserve">
-    <value>Video can't be played</value>
+    <value>Video kan icke spelas</value>
     <comment>Video can't be played</comment>
   </data>
   <data name="Dialog_VideoErrorExplanation" xml:space="preserve">
-    <value>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</value>
+    <value>Det uppstod ett fel när du försökte spela upp introduktionsvideon. Vill du besöka vår sida för tips och trix för att lära dig mer om Mailbird?</value>
     <comment>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</comment>
   </data>
   <data name="InstallationForm_Mute" xml:space="preserve">
-    <value>Mute</value>
+    <value>Tyst</value>
     <comment>Mute</comment>
   </data>
   <data name="InstallationForm_Unmute" xml:space="preserve">
-    <value>Play Sound</value>
+    <value>Inte tyst</value>
     <comment>Play Sound</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
-    <value>Installation failed: ({0}) {1}</value>
+    <value>Installation misslyckades.
+({0}) {1} Klicka här för att visa loggfilen.</value>
     <comment>Installation failed: ({0}) {1}</comment>
   </data>
   <data name="Dialog_DownloadFailed" xml:space="preserve">
-    <value>Download Failed</value>
+    <value>Nedladdningen misslyckades</value>
     <comment>Download Failed</comment>
   </data>
 <data name="InstallationForm_ShowLogFile" xml:space="preserve">
-    <value>Show Log File</value>
+    <value>Visa loggfil</value>
     <comment>Show Log File</comment>
   </data>
   <data name="Status_DownloadFailed" xml:space="preserve">
-    <value>Download failed.</value>
+    <value>Nedladdningen misslyckades.</value>
     <comment>Download failed.</comment>
   </data>
 </root>
