@@ -249,7 +249,7 @@ Click here to show the log file.</comment>
     <comment>Video can't be played</comment>
   </data>
   <data name="Dialog_VideoErrorExplanation" xml:space="preserve">
-    <value>当你尝试播放介绍视频的时候出错了. 你想访问我们的技巧和窍门页面以了解更多关于Mailbird吗？</value>
+    <value>当你尝试播放介绍视频的时候出错了. 你想访问我们的技巧和窍门页面以了解更多关于Mailbird的信息吗？</value>
     <comment>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</comment>
   </data>
   <data name="InstallationForm_Mute" xml:space="preserve">
