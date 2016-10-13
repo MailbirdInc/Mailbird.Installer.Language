@@ -171,11 +171,11 @@
     <comment>Language:</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
-    <value>Mailbird elhelyezése a Start menüben</value>
+    <value>Mailbird kitűzése a Start menüben</value>
     <comment>Pin Mailbird to Start menu</comment>
   </data>
   <data name="InstallationForm_PinTaskbar" xml:space="preserve">
-    <value>Mailbird elhelyezése a tálcán</value>
+    <value>Mailbird kitűzése a tálcára</value>
     <comment>Pin Mailbird to Taskbar</comment>
   </data>
   <data name="InstallationForm_StartMailbird" xml:space="preserve">
