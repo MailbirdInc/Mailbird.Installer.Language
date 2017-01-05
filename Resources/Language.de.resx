@@ -122,7 +122,7 @@
     <comment>Cancel Installation</comment>
   </data>
   <data name="Dialog_CancelInstallationExplanation" xml:space="preserve">
-    <value>Bist du sicher, dass du die Installation von {0} abbrechen möchten?</value>
+    <value>Möchten Sie die Installation von {0} wirklich abbrechen?</value>
     <comment>Are you sure you want to cancel the {0} installation?</comment>
   </data>
   <data name="Dialog_DownloadFailedExplanation" xml:space="preserve">
@@ -135,7 +135,7 @@
     <comment>Invalid Location</comment>
   </data>
   <data name="Dialog_InvalidLocationExplanation" xml:space="preserve">
-    <value>Mailbird kann nur in einem Pfad installiert werden, der ausschließlich ASCII-Zeichen enthält. Bitte wähle einen anderen Pfad.</value>
+    <value>Mailbird kann nur in einem Pfad installiert werden, der ausschließlich ASCII-Zeichen enthält. Bitte einen anderen Pfad wählen.</value>
     <comment>Mailbird cannot be installed to a location with non-English characters in the path. Please select a different location.</comment>
   </data>
   <data name="Dialog_OfflineInstaller" xml:space="preserve">
@@ -143,19 +143,19 @@
     <comment>Download Offline Installer</comment>
   </data>
   <data name="Dialog_OfflineInstallerExplanation" xml:space="preserve">
-    <value>Möchtest du stattdessen den Offline-Installer herunterladen?</value>
+    <value>Möchten Sie stattdessen den Offline-Installer herunterladen?</value>
     <comment>Would you like to download and try the offline installer instead?</comment>
   </data>
   <data name="Dialog_UnableLaunch" xml:space="preserve">
-    <value>Starte {0}</value>
+    <value>{0} wird gestartet</value>
     <comment>Launching {0}</comment>
   </data>
   <data name="Dialog_UnableLaunchExplanation" xml:space="preserve">
-    <value>Bitte führe {0} über die Desktopverknüpfung aus.</value>
+    <value>Bitte {0} über die Verknüpfung auf dem Desktop starten.</value>
     <comment>Please launch {0} using the shortcut on the desktop.</comment>
   </data>
   <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
-    <value>Desktopverknüpfung erstellen</value>
+    <value>Verknüpfung auf dem Desktop erstellen</value>
     <comment>Create shortcut on Desktop</comment>
   </data>
   <data name="InstallationForm_Directory" xml:space="preserve">
@@ -171,11 +171,11 @@
     <comment>Language:</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
-    <value>Mailbird an das Startmenü anheften</value>
+    <value>Mailbird ans Startmenü anheften</value>
     <comment>Pin Mailbird to Start menu</comment>
   </data>
   <data name="InstallationForm_PinTaskbar" xml:space="preserve">
-    <value>Mailbird an die Taskleiste anpinnen</value>
+    <value>Mailbird an Taskleiste anheften</value>
     <comment>Pin Mailbird to Taskbar</comment>
   </data>
   <data name="InstallationForm_StartMailbird" xml:space="preserve">
@@ -183,7 +183,7 @@
     <comment>Start Mailbird</comment>
   </data>
   <data name="InstallationForm_Status" xml:space="preserve">
-    <value>Installiere ...</value>
+    <value>Installation wird ausgeführt …</value>
     <comment>Installing...</comment>
   </data>
   <data name="InstallationForm_Title" xml:space="preserve">
@@ -199,11 +199,11 @@
     <comment>{0} is already installed.</comment>
   </data>
   <data name="Status_Downloading" xml:space="preserve">
-    <value>Daten werden heruntergeladen ...</value>
+    <value>Daten werden heruntergeladen …</value>
     <comment>Downloading...</comment>
   </data>
   <data name="Status_DownloadProgress" xml:space="preserve">
-    <value>{0} Setup wird heruntergeladen ... ({1} %)</value>
+    <value>{0} Installationsdatei wird heruntergeladen … ({1} %)</value>
     <comment>Downloading {0} Setup... ({1}%)</comment>
   </data>
   <data name="Status_InstallationCompleted" xml:space="preserve">
@@ -211,8 +211,8 @@
     <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
-    <value>Die Installation ist mit folgendem Fehlercode gescheitert: {0} 
-Klicke hier um Dir die Protokolldatei anzusehen.</value>
+    <value>Die Installation ist mit folgendem Fehlercode fehlgeschlagen: {0} 
+Hier klicken, um die Protokolldatei anzusehen.</value>
     <comment>Installation failed with error code: {0} 
 Click here to show the log file.</comment>
   </data>
@@ -221,11 +221,11 @@ Click here to show the log file.</comment>
     <comment>Installation failed.</comment>
   </data>
   <data name="Status_Installing" xml:space="preserve">
-    <value>{0} wird installiert ...</value>
+    <value>{0} wird installiert …</value>
     <comment>Installing {0}...</comment>
   </data>
   <data name="InstallationForm_RunStartup" xml:space="preserve">
-    <value>Automatisch zusammen mit Windows starten</value>
+    <value>Automatisch mit Windows starten</value>
     <comment>Start automatically with Windows</comment>
   </data>
   <data name="InstallationForm_Continue" xml:space="preserve">
@@ -237,45 +237,45 @@ Click here to show the log file.</comment>
     <comment>Share with Friends</comment>
   </data>
   <data name="InstallationForm_Replay" xml:space="preserve">
-    <value>Hier klicken, um das Video abzuspielen</value>
+    <value>Hier klicken, um das Video anzusehen</value>
     <comment>Click here to play the video</comment>
   </data>
   <data name="InstallationForm_RightClick" xml:space="preserve">
-    <value>Rechtsklick, um Playereinstellungen anzuzeigen</value>
+    <value>Rechtsklick, um die Bedienelemente des Players anzuzeigen</value>
     <comment>Right click here to show player control</comment>
   </data>
   <data name="Dialog_VideoError" xml:space="preserve">
-    <value>Video konnte nicht abgespielt werden</value>
+    <value>Video konnte nicht wiedergegeben werden</value>
     <comment>Video can't be played</comment>
   </data>
   <data name="Dialog_VideoErrorExplanation" xml:space="preserve">
-    <value>Es gab einen Fehler bei dem Versuch, das Einführungsvideo abzuspielen. Möchtest du unsere Tipps-und-Tricks-Seite anschauen, um mehr über Mailbird zu erfahren?</value>
+    <value>Es gab einen Fehler bei dem Versuch, das Einführungsvideo wiederzugeben. Möchten Sie sich unsere Tipps-und-Tricks-Seite anschauen, um mehr über Mailbird zu erfahren?</value>
     <comment>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</comment>
   </data>
   <data name="InstallationForm_Mute" xml:space="preserve">
-    <value>Stumm</value>
+    <value>Ton aus</value>
     <comment>Mute</comment>
   </data>
   <data name="InstallationForm_Unmute" xml:space="preserve">
-    <value>Stummschaltung aufheben</value>
+    <value>Ton an</value>
     <comment>Unmute</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
     <value>Installation fehlgeschlagen.
-({0}) {1} Klicke hier um Dir die Protokolldatei anzuschauen.</value>
+({0}) {1} Hier klicken, um die Protokolldatei anzuzeigen.</value>
     <comment>Installation failed.
 ({0}) {1} Click here to show the log file.</comment>
   </data>
   <data name="Dialog_DownloadFailed" xml:space="preserve">
-    <value>Download fehlgeschlagen</value>
+    <value>Herunterladen fehlgeschlagen</value>
     <comment>Download Failed</comment>
   </data>
   <data name="InstallationForm_ShowLogFile" xml:space="preserve">
-    <value>Zeige die Protokolldatei</value>
+    <value>Protokolldatei anzeigen</value>
     <comment>Show Log File</comment>
   </data>
   <data name="Status_DownloadFailed" xml:space="preserve">
-    <value>Download gescheitert.</value>
+    <value>Herunterladen fehlgeschlagen.</value>
     <comment>Download failed.</comment>
   </data>
 </root>
