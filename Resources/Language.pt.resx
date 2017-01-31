@@ -135,7 +135,7 @@
     <comment>Invalid Location</comment>
   </data>
   <data name="Dialog_InvalidLocationExplanation" xml:space="preserve">
-    <value>O Mailbird não pode ser instalado num local com caracteres não ingleses no caminho. Por favor seleccione outro local.</value>
+    <value>O Mailbird não pode ser instalado num local com caracteres não ingleses no seu percurso. Por favor seleccione outro local.</value>
     <comment>Mailbird cannot be installed to a location with non-English characters in the path. Please select a different location.</comment>
   </data>
   <data name="Dialog_OfflineInstaller" xml:space="preserve">
@@ -171,15 +171,15 @@
     <comment>Language:</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
-    <value>Afixar o Mailbird ao menu Iniciar</value>
+    <value>Fixar o Mailbird no menu Iniciar</value>
     <comment>Pin Mailbird to Start menu</comment>
   </data>
   <data name="InstallationForm_PinTaskbar" xml:space="preserve">
-    <value>Afixar o Mailbird à Barra de Tarefas</value>
+    <value>Fixar o Mailbird na Barra de Tarefas</value>
     <comment>Pin Mailbird to Taskbar</comment>
   </data>
   <data name="InstallationForm_StartMailbird" xml:space="preserve">
-    <value>Iniciar o Mailbird</value>
+    <value>Iniciar Mailbird</value>
     <comment>Start Mailbird</comment>
   </data>
   <data name="InstallationForm_Status" xml:space="preserve">
@@ -211,8 +211,8 @@
     <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
-    <value>Installation failed with error code: {0} 
-Click here to show the log file.</value>
+    <value>Falha na instalação com código de erro: {0} 
+Clique aqui para visualizar o arquivo de log.</value>
     <comment>Installation failed with error code: {0} 
 Click here to show the log file.</comment>
   </data>
@@ -225,7 +225,7 @@ Click here to show the log file.</comment>
     <comment>Installing {0}...</comment>
   </data>
   <data name="InstallationForm_RunStartup" xml:space="preserve">
-    <value>Iniciar automaticamente com o Windows</value>
+    <value>Iniciar com o arranque do Windows</value>
     <comment>Start automatically with Windows</comment>
   </data>
   <data name="InstallationForm_Continue" xml:space="preserve">
@@ -237,7 +237,7 @@ Click here to show the log file.</comment>
     <comment>Share with Friends</comment>
   </data>
   <data name="InstallationForm_Replay" xml:space="preserve">
-    <value>Clique aqui para ver o video</value>
+    <value>Clique aqui para ver o vídeo</value>
     <comment>Click here to play the video</comment>
   </data>
   <data name="InstallationForm_RightClick" xml:space="preserve">
@@ -245,11 +245,11 @@ Click here to show the log file.</comment>
     <comment>Right click here to show player control</comment>
   </data>
   <data name="Dialog_VideoError" xml:space="preserve">
-    <value>O video não pode ser reproduzido</value>
+    <value>O vídeo não pode ser reproduzido</value>
     <comment>Video can't be played</comment>
   </data>
   <data name="Dialog_VideoErrorExplanation" xml:space="preserve">
-    <value>Ocorreu um erro quando tentou reproduzir o video de introdução.
+    <value>Ocorreu um erro quando tentou reproduzir o vídeo de introdução.
 Gostaria de visitar a nossa página de truques e dicas para aprender mais sobre o Mailbird?</value>
     <comment>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</comment>
   </data>
@@ -258,25 +258,25 @@ Gostaria de visitar a nossa página de truques e dicas para aprender mais sobre 
     <comment>Mute</comment>
   </data>
   <data name="InstallationForm_Unmute" xml:space="preserve">
-    <value>Unmute</value>
+    <value>Activar som</value>
     <comment>Unmute</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
-    <value>Installation failed.
-({0}) {1} Click here to show the log file.</value>
+    <value>Instalação falhada.
+({0}) {1} Clique aqui para mostrar o arquivo de log.</value>
     <comment>Installation failed.
 ({0}) {1} Click here to show the log file.</comment>
   </data>
   <data name="Dialog_DownloadFailed" xml:space="preserve">
-    <value>A Transferência Falhou </value>
+    <value>A Transferência Falhou</value>
     <comment>Download Failed</comment>
   </data>
   <data name="InstallationForm_ShowLogFile" xml:space="preserve">
-    <value>Show Log File</value>
+    <value>Mostrar o Arquivo de Log</value>
     <comment>Show Log File</comment>
   </data>
   <data name="Status_DownloadFailed" xml:space="preserve">
-    <value>Download failed.</value>
+    <value>A Transferência falhou.</value>
     <comment>Download failed.</comment>
   </data>
 </root>
