@@ -126,7 +126,7 @@
     <comment>Are you sure you want to cancel the {0} installation?</comment>
   </data>
   <data name="Dialog_DownloadFailedExplanation" xml:space="preserve">
-    <value>Nie można pobrać {0} pliku instalacyjnego. Czy zamiast tego chcesz pobrać i wypróbować instalator offline ?</value>
+    <value>Nie można pobrać {0} pliku instalacyjnego. Czy zamiast tego chcesz pobrać i wypróbować instalator offline?</value>
     <comment>Cannot download {0} setup file.
  Would you like to download and try the offline installer instead?</comment>
   </data>
@@ -211,7 +211,7 @@
     <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
-    <value>Instalacja nie powiodła się. Kod błedu: {0} 
+    <value>Instalacja nie powiodła się. Kod błędu: {0} 
 Kliknij tutaj, aby wyświetlić plik dziennika.</value>
     <comment>Installation failed with error code: {0} 
 Click here to show the log file.</comment>
@@ -225,7 +225,7 @@ Click here to show the log file.</comment>
     <comment>Installing {0}...</comment>
   </data>
   <data name="InstallationForm_RunStartup" xml:space="preserve">
-    <value>Uruchom przy starcie systemu Windows</value>
+    <value>Uruchom automatycznie przy starcie Windows</value>
     <comment>Start automatically with Windows</comment>
   </data>
   <data name="InstallationForm_Continue" xml:space="preserve">
@@ -257,7 +257,7 @@ Click here to show the log file.</comment>
     <comment>Mute</comment>
   </data>
   <data name="InstallationForm_Unmute" xml:space="preserve">
-    <value>Wycisz</value>
+    <value>Wyłącz wyciszenie</value>
     <comment>Unmute</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
