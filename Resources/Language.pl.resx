@@ -245,11 +245,11 @@ Click here to show the log file.</comment>
     <comment>Right click here to show player control</comment>
   </data>
   <data name="Dialog_VideoError" xml:space="preserve">
-    <value>Film nie może być odtworzony</value>
+    <value>Nie można odtworzyć wideo</value>
     <comment>Video can't be played</comment>
   </data>
   <data name="Dialog_VideoErrorExplanation" xml:space="preserve">
-    <value>Wystąpił błąd podczas próby odtworzenia filmu wprowadzającego. Czy chciałbyś odwiedzić naszą stronę z poradami, aby dowiedzieć się więcej o Mailbird?</value>
+    <value>Wystąpił błąd podczas próby odtworzenia wideo wprowadzającego. Czy chciałbyś odwiedzić naszą stronę z poradami, aby dowiedzieć się więcej o Mailbird?</value>
     <comment>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</comment>
   </data>
   <data name="InstallationForm_Mute" xml:space="preserve">
