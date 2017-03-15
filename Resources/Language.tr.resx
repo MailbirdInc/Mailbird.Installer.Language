@@ -151,7 +151,7 @@
     <comment>Launching {0}</comment>
   </data>
   <data name="Dialog_UnableLaunchExplanation" xml:space="preserve">
-    <value>Lütfen {0} uygulamasını masaüstündeki kısayolu kullanarak başkatın.</value>
+    <value>Lütfen {0} uygulamasını masaüstündeki kısayolu kullanarak başlatın.</value>
     <comment>Please launch {0} using the shortcut on the desktop.</comment>
   </data>
   <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
@@ -171,15 +171,15 @@
     <comment>Language:</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
-    <value>Mailbird&apos;ü Başlat Menüsüne sabitle</value>
+    <value>Mailbird'ü Başlat Menüsüne sabitle</value>
     <comment>Pin Mailbird to Start menu</comment>
   </data>
   <data name="InstallationForm_PinTaskbar" xml:space="preserve">
-    <value>Mailbird&apos;ü görev çubuğuna sabitle</value>
+    <value>Mailbird'ü görev çubuğuna sabitle</value>
     <comment>Pin Mailbird to Taskbar</comment>
   </data>
   <data name="InstallationForm_StartMailbird" xml:space="preserve">
-    <value>Mailbird&apos;ü başlat</value>
+    <value>Mailbird'ü başlat</value>
     <comment>Start Mailbird</comment>
   </data>
   <data name="InstallationForm_Status" xml:space="preserve">
@@ -211,8 +211,8 @@
     <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
-    <value>Installation failed with error code: {0} 
-Click here to show the log file.</value>
+    <value>Yükleme Başarısız! Hata Kodu: {0} 
+Günlük dosyasını görmek için buraya tıklayın.</value>
     <comment>Installation failed with error code: {0} 
 Click here to show the log file.</comment>
   </data>
@@ -249,7 +249,7 @@ Click here to show the log file.</comment>
     <comment>Video can't be played</comment>
   </data>
   <data name="Dialog_VideoErrorExplanation" xml:space="preserve">
-    <value>Tanıtım videosunu oynatmaya çalıştığınız sırada bir hata oluştu. Mailbird hakkında daha fazlasını öğrenmek için ipuçları ve püf noktaları sitemizi ziyaret etmek ister misiniz?</value>
+    <value>Tanıtım videosunu oynatmaya çalıştığınız sırada bir hata oluştu. Mailbird hakkında daha fazlasını öğrenmek için ipuçları ve püf noktaları sayfamızı ziyaret etmek ister misiniz?</value>
     <comment>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</comment>
   </data>
   <data name="InstallationForm_Mute" xml:space="preserve">
@@ -257,12 +257,12 @@ Click here to show the log file.</comment>
     <comment>Mute</comment>
   </data>
   <data name="InstallationForm_Unmute" xml:space="preserve">
-    <value>Unmute</value>
+    <value>Sesi Aç</value>
     <comment>Unmute</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
-    <value>Installation failed.
-({0}) {1} Click here to show the log file.</value>
+    <value>Yükleme başarısız.
+({0}) {1} Günlük dosyasını görmek için buraya tıklayın.</value>
     <comment>Installation failed.
 ({0}) {1} Click here to show the log file.</comment>
   </data>
@@ -271,11 +271,11 @@ Click here to show the log file.</comment>
     <comment>Download Failed</comment>
   </data>
   <data name="InstallationForm_ShowLogFile" xml:space="preserve">
-    <value>Show Log File</value>
+    <value>Günlük Dosyasını Göster</value>
     <comment>Show Log File</comment>
   </data>
   <data name="Status_DownloadFailed" xml:space="preserve">
-    <value>Download failed.</value>
+    <value>İndirme Başarısız.</value>
     <comment>Download failed.</comment>
   </data>
 </root>
