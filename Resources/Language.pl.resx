@@ -135,7 +135,7 @@
     <comment>Invalid Location</comment>
   </data>
   <data name="Dialog_InvalidLocationExplanation" xml:space="preserve">
-    <value>Mailbird nie może być zainstalowany w lokalizacji z literami regionalnymi w ścieżce. Proszę wybrać inne miejsce.</value>
+    <value>Mailbird nie może być zainstalowany w lokalizacji z polskimi znakami w ścieżce. Proszę wybrać inne miejsce.</value>
     <comment>Mailbird cannot be installed to a location with non-English characters in the path. Please select a different location.</comment>
   </data>
   <data name="Dialog_OfflineInstaller" xml:space="preserve">
@@ -143,11 +143,11 @@
     <comment>Download Offline Installer</comment>
   </data>
   <data name="Dialog_OfflineInstallerExplanation" xml:space="preserve">
-    <value>Czy chciałbyś zamiast tego pobrać i wypróbować instalator offline?</value>
+    <value>Czy chcesz zamiast tego pobrać i wypróbować instalator offline?</value>
     <comment>Would you like to download and try the offline installer instead?</comment>
   </data>
   <data name="Dialog_UnableLaunch" xml:space="preserve">
-    <value>Uruchamiam {0}</value>
+    <value>Uruchamianie {0}</value>
     <comment>Launching {0}</comment>
   </data>
   <data name="Dialog_UnableLaunchExplanation" xml:space="preserve">
@@ -171,7 +171,7 @@
     <comment>Language:</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
-    <value>Przypnij Mailbird do menu Start</value>
+    <value>Przypnij Mailbird do Menu Start</value>
     <comment>Pin Mailbird to Start menu</comment>
   </data>
   <data name="InstallationForm_PinTaskbar" xml:space="preserve">
@@ -207,7 +207,7 @@
     <comment>Downloading {0} Setup... ({1}%)</comment>
   </data>
   <data name="Status_InstallationCompleted" xml:space="preserve">
-    <value>Instalacja została zakończona</value>
+    <value>Zainstalowano</value>
     <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
