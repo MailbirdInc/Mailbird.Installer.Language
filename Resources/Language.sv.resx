@@ -171,8 +171,8 @@
     <comment>Language:</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
-    <value>Fäst Mailbird på startmenyn</value>
-    <comment>Pin Mailbird to Start menu</comment>
+    <value>Fäst Mailbird på startmeny</value>
+  <comment>Pin Mailbird to Start menu</comment>
   </data>
   <data name="InstallationForm_PinTaskbar" xml:space="preserve">
     <value>Fäst Mailbird i aktivitetsfältet</value>
@@ -187,8 +187,8 @@
     <comment>Installing...</comment>
   </data>
   <data name="InstallationForm_Title" xml:space="preserve">
-    <value>{0} Installation</value>
-    <comment>{0} Installer</comment>
+    <value>{0} Installer</value>
+  <comment>{0} Installer</comment>
   </data>
   <data name="InstallationForm_Version" xml:space="preserve">
     <value>Version:</value>
@@ -256,8 +256,8 @@ Klicka här för att visa loggfilen.</value>
     <comment>Mute</comment>
   </data>
   <data name="InstallationForm_Unmute" xml:space="preserve">
-    <value>Inte tyst</value>
-    <comment>Play Sound</comment>
+    <value>Ljudlig</value>
+  <comment>Play Sound</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
     <value>Installation misslyckades.
