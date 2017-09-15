@@ -118,12 +118,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Dialog_CancelInstallation" xml:space="preserve">
-    <value>Avbryt installation</value>
-    <comment>Cancel Installation</comment>
+    <value>Avbryt installationen</value>
+  <comment>Cancel Installation</comment>
   </data>
   <data name="Dialog_CancelInstallationExplanation" xml:space="preserve">
-    <value>Är du säker på att du vill avbryta installationen av {0}?</value>
-    <comment>Are you sure you want to cancel the {0} installation?</comment>
+    <value>Är du säker att du vill avbryta installationen  {0}?</value>
+  <comment>Are you sure you want to cancel the {0} installation?</comment>
   </data>
   <data name="Dialog_DownloadFailedExplanation" xml:space="preserve">
     <value>Kan inte hämta {0} installationsfilen. Vill du ladda ner och testa offlineinstallationen istället?</value>
