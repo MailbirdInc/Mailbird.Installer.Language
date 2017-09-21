@@ -187,7 +187,7 @@
     <comment>Installing...</comment>
   </data>
   <data name="InstallationForm_Title" xml:space="preserve">
-    <value>{0} Installer</value>
+    <value>{0} installerare</value>
   <comment>{0} Installer</comment>
   </data>
   <data name="InstallationForm_Version" xml:space="preserve">
