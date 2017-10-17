@@ -17,8 +17,8 @@
     <comment>Invalid Location</comment>
   </data>
   <data name="Dialog_InvalidLocationExplanation" xml:space="preserve">
-    <value>Mailbird não pode ser instalado num local com caracteres que não são da língua inglesa no caminho da pasta. Por favor, selecione um local diferente.</value>
-    <comment>Mailbird cannot be installed to a location with non-English characters in the path. Please select a different location.</comment>
+    <value>Mailbird não pode ser instalado num local com caracteres que não são provenientes da língua inglesa no caminho da pasta. Por favor, selecione um local diferente.</value>
+  <comment>Mailbird cannot be installed to a location with non-English characters in the path. Please select a different location.</comment>
   </data>
   <data name="Dialog_OfflineInstaller" xml:space="preserve">
     <value>Baixar Instalador Offline</value>
@@ -37,8 +37,8 @@
     <comment>Please launch {0} using the shortcut on the desktop.</comment>
   </data>
   <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
-    <value>Criar atalho da área de trabalho</value>
-    <comment>Create shortcut on Desktop</comment>
+    <value>Criar atalho da Área de Trabalho</value>
+  <comment>Create shortcut on Desktop</comment>
   </data>
   <data name="InstallationForm_Directory" xml:space="preserve">
     <value>Pasta de instalação:</value>
@@ -93,9 +93,9 @@
     <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
-    <value>Instalação falhou com o código de erro: {0} 
+    <value>A instalação falhou com o código de erro: {0} 
 Clique aqui para ver o arquivo com o registro dos eventos.</value>
-    <comment>Installation failed with error code: {0} 
+  <comment>Installation failed with error code: {0} 
 Click here to show the log file.</comment>
   </data>
   <data name="Status_InstallationFailed" xml:space="preserve">
@@ -115,8 +115,8 @@ Click here to show the log file.</comment>
     <comment>Continue</comment>
   </data>
   <data name="InstallationForm_Share" xml:space="preserve">
-    <value>Compartilhar com os Amigos</value>
-    <comment>Share with Friends</comment>
+    <value>Compartilhar com Amigos</value>
+  <comment>Share with Friends</comment>
   </data>
   <data name="InstallationForm_Replay" xml:space="preserve">
     <value>Clique aqui para reproduzir o vídeo</value>
