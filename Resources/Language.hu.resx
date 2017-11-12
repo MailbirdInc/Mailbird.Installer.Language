@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Dialog_CancelInstallation" xml:space="preserve">
-    <value>Telepítés leállítása</value>
+    <value>Telepítés leállítása / Telepítés megszakítása</value>
   <comment>Cancel Installation</comment>
   </data>
   <data name="Dialog_CancelInstallationExplanation" xml:space="preserve">
@@ -175,8 +175,8 @@
   <comment>Pin Mailbird to Start menu</comment>
   </data>
   <data name="InstallationForm_PinTaskbar" xml:space="preserve">
-    <value>Mailbird kitűzése a tálcára</value>
-    <comment>Pin Mailbird to Taskbar</comment>
+    <value>Mailbird rögzítése a tálcán</value>
+  <comment>Pin Mailbird to Taskbar</comment>
   </data>
   <data name="InstallationForm_StartMailbird" xml:space="preserve">
     <value>Mailbird indítása</value>
@@ -207,8 +207,8 @@
     <comment>Downloading {0} Setup... ({1}%)</comment>
   </data>
   <data name="Status_InstallationCompleted" xml:space="preserve">
-    <value>A telepítés elkészült</value>
-    <comment>Installation is completed</comment>
+    <value>A telepítés elkészült.</value>
+  <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
     <value>A telepítés sikertelen az alábbi hibakóddal: {0} 
@@ -225,8 +225,8 @@ Click here to show the log file.</comment>
     <comment>Installing {0}...</comment>
   </data>
   <data name="InstallationForm_RunStartup" xml:space="preserve">
-    <value>Automatikus indítás a Windows-szal együtt</value>
-    <comment>Start automatically with Windows</comment>
+    <value>Automatikus indítás a Windows-zal együtt</value>
+  <comment>Start automatically with Windows</comment>
   </data>
   <data name="InstallationForm_Continue" xml:space="preserve">
     <value>Folytatás</value>
