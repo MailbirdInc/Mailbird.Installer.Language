@@ -118,8 +118,8 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Dialog_CancelInstallation" xml:space="preserve">
-    <value>Mégsem telepítem</value>
-    <comment>Cancel Installation</comment>
+    <value>Telepítés leállítása</value>
+  <comment>Cancel Installation</comment>
   </data>
   <data name="Dialog_CancelInstallationExplanation" xml:space="preserve">
     <value>Biztos benne, hogy megszakítja a {0} telepítését?</value>
@@ -171,8 +171,8 @@
     <comment>Language:</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
-    <value>Mailbird kitűzése a Start menüben</value>
-    <comment>Pin Mailbird to Start menu</comment>
+    <value>Mailbird rögzítése a Start menüben</value>
+  <comment>Pin Mailbird to Start menu</comment>
   </data>
   <data name="InstallationForm_PinTaskbar" xml:space="preserve">
     <value>Mailbird kitűzése a tálcára</value>
