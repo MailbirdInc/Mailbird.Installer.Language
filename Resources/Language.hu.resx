@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Dialog_CancelInstallation" xml:space="preserve">
-    <value>Telepítés leállítása / Telepítés megszakítása</value>
+    <value>Telepítés leállítása</value>
   <comment>Cancel Installation</comment>
   </data>
   <data name="Dialog_CancelInstallationExplanation" xml:space="preserve">
@@ -207,7 +207,7 @@
     <comment>Downloading {0} Setup... ({1}%)</comment>
   </data>
   <data name="Status_InstallationCompleted" xml:space="preserve">
-    <value>A telepítés elkészült.</value>
+    <value>A telepítés elkészült</value>
   <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
