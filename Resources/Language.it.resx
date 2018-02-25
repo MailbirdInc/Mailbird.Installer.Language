@@ -139,8 +139,8 @@
     <comment>Mailbird cannot be installed to a location with non-English characters in the path. Please select a different location.</comment>
   </data>
   <data name="Dialog_OfflineInstaller" xml:space="preserve">
-    <value>Scarica installer offline</value>
-    <comment>Download Offline Installer</comment>
+    <value>Scarica il programma di installazione offline</value>
+  <comment>Download Offline Installer</comment>
   </data>
   <data name="Dialog_OfflineInstallerExplanation" xml:space="preserve">
     <value>Vuoi provare a scaricare il programma di installazione offline?</value>
@@ -183,8 +183,8 @@
     <comment>Start Mailbird</comment>
   </data>
   <data name="InstallationForm_Status" xml:space="preserve">
-    <value>Installazione...</value>
-    <comment>Installing...</comment>
+    <value>Installazione in corso...</value>
+  <comment>Installing...</comment>
   </data>
   <data name="InstallationForm_Title" xml:space="preserve">
     <value>Installazione di {0}</value>
@@ -237,8 +237,8 @@ Click here to show the log file.</comment>
     <comment>Share with Friends</comment>
   </data>
   <data name="InstallationForm_Replay" xml:space="preserve">
-    <value>Clicca qui per vedere il video</value>
-    <comment>Click here to play the video</comment>
+    <value>Clicca qui per riprodurre il video</value>
+  <comment>Click here to play the video</comment>
   </data>
   <data name="InstallationForm_RightClick" xml:space="preserve">
     <value>Clicca col tasto destro per visualizzare i controlli</value>
@@ -253,8 +253,8 @@ Click here to show the log file.</comment>
     <comment>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</comment>
   </data>
   <data name="InstallationForm_Mute" xml:space="preserve">
-    <value>Silenzia</value>
-    <comment>Mute</comment>
+    <value>Disattiva audio</value>
+  <comment>Mute</comment>
   </data>
   <data name="InstallationForm_Unmute" xml:space="preserve">
     <value>Attiva audio</value>
