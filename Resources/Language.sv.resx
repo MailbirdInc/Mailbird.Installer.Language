@@ -122,7 +122,7 @@
   <comment>Cancel Installation</comment>
   </data>
   <data name="Dialog_CancelInstallationExplanation" xml:space="preserve">
-    <value>Är du säker att du vill avbryta installationen  {0}?</value>
+    <value>Är du säker på att du vill avbryta installationen {0}?</value>
   <comment>Are you sure you want to cancel the {0} installation?</comment>
   </data>
   <data name="Dialog_DownloadFailedExplanation" xml:space="preserve">
@@ -187,7 +187,7 @@
     <comment>Installing...</comment>
   </data>
   <data name="InstallationForm_Title" xml:space="preserve">
-    <value>{0} installerare</value>
+    <value>{0} Installerare</value>
   <comment>{0} Installer</comment>
   </data>
   <data name="InstallationForm_Version" xml:space="preserve">
@@ -244,19 +244,19 @@ Klicka här för att visa loggfilen.</value>
     <comment>Right click here to show player control</comment>
   </data>
   <data name="Dialog_VideoError" xml:space="preserve">
-    <value>Video kan icke spelas</value>
-    <comment>Video can't be played</comment>
+    <value>Videon kan inte spelas upp</value>
+  <comment>Video can't be played</comment>
   </data>
   <data name="Dialog_VideoErrorExplanation" xml:space="preserve">
     <value>Det uppstod ett fel när du försökte spela upp introduktionsvideon. Vill du besöka vår sida för tips och trix för att lära dig mer om Mailbird?</value>
     <comment>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</comment>
   </data>
   <data name="InstallationForm_Mute" xml:space="preserve">
-    <value>Tyst</value>
-    <comment>Mute</comment>
+    <value>Tysta</value>
+  <comment>Mute</comment>
   </data>
   <data name="InstallationForm_Unmute" xml:space="preserve">
-    <value>Ljudlig</value>
+    <value>Sätt på ljud</value>
   <comment>Play Sound</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
