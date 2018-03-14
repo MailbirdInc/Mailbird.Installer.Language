@@ -216,7 +216,7 @@ Click here to show the log file.</comment>
   <comment>Show Log File</comment>
   </data>
   <data name="Status_DownloadFailed" xml:space="preserve">
-    <value>Stažení se nezdařilo.</value>
+    <value>Stažení se nezdařilo</value>
   <comment>Download failed.</comment>
   </data>
 </root>
