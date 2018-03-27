@@ -171,12 +171,12 @@
     <comment>Language:</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
-    <value>Fäst Mailbird på startmeny</value>
+    <value>Fäst Mailbird på Start-menyn</value>
   <comment>Pin Mailbird to Start menu</comment>
   </data>
   <data name="InstallationForm_PinTaskbar" xml:space="preserve">
-    <value>Fäst Mailbird i aktivitetsfältet</value>
-    <comment>Pin Mailbird to Taskbar</comment>
+    <value>Fäst Mailbird i Aktivitetsfältet</value>
+  <comment>Pin Mailbird to Taskbar</comment>
   </data>
   <data name="InstallationForm_StartMailbird" xml:space="preserve">
     <value>Starta Mailbird</value>
