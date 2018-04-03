@@ -211,9 +211,9 @@
     <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
-    <value>Installation failed with error code: {0} 
-Click here to show the log file.</value>
-    <comment>Installation failed with error code: {0} 
+    <value>Установка закончилась с кодом ошибки: {0} 
+Нажмите тут для просмотра деталей ошибки.</value>
+  <comment>Installation failed with error code: {0} 
 Click here to show the log file.</comment>
   </data>
   <data name="Status_InstallationFailed" xml:space="preserve">
@@ -253,17 +253,17 @@ Click here to show the log file.</comment>
     <comment>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</comment>
   </data>
   <data name="InstallationForm_Mute" xml:space="preserve">
-    <value>Тихо</value>
-    <comment>Mute</comment>
+    <value>Выключить звук</value>
+  <comment>Mute</comment>
   </data>
   <data name="InstallationForm_Unmute" xml:space="preserve">
-    <value>Unmute</value>
-    <comment>Unmute</comment>
+    <value>Включить звук</value>
+  <comment>Unmute</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
-    <value>Installation failed.
-({0}) {1} Click here to show the log file.</value>
-    <comment>Installation failed.
+    <value>Установка неудалась.
+({0}) {1} Нажмите тут для просмотра деталей.</value>
+  <comment>Installation failed.
 ({0}) {1} Click here to show the log file.</comment>
   </data>
   <data name="Dialog_DownloadFailed" xml:space="preserve">
@@ -271,11 +271,11 @@ Click here to show the log file.</comment>
     <comment>Download Failed</comment>
   </data>
   <data name="InstallationForm_ShowLogFile" xml:space="preserve">
-    <value>Show Log File</value>
-    <comment>Show Log File</comment>
+    <value>Показать log файл</value>
+  <comment>Show Log File</comment>
   </data>
   <data name="Status_DownloadFailed" xml:space="preserve">
-    <value>Download failed.</value>
-    <comment>Download failed.</comment>
+    <value>Неудачная загрузка</value>
+  <comment>Download failed.</comment>
   </data>
 </root>
