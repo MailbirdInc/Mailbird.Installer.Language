@@ -195,8 +195,8 @@
     <comment>Version:</comment>
   </data>
   <data name="Status_AlreadyInstalled" xml:space="preserve">
-    <value>{0} уже установлен</value>
-    <comment>{0} is already installed.</comment>
+    <value>{0} уже установлен.</value>
+  <comment>{0} is already installed.</comment>
   </data>
   <data name="Status_Downloading" xml:space="preserve">
     <value>Загрузка...</value>
@@ -217,8 +217,8 @@
 Click here to show the log file.</comment>
   </data>
   <data name="Status_InstallationFailed" xml:space="preserve">
-    <value>Установка невозможна</value>
-    <comment>Installation failed.</comment>
+    <value>Установка невозможна.</value>
+  <comment>Installation failed.</comment>
   </data>
   <data name="Status_Installing" xml:space="preserve">
     <value>Выполняется установка {0}...</value>
@@ -275,7 +275,7 @@ Click here to show the log file.</comment>
   <comment>Show Log File</comment>
   </data>
   <data name="Status_DownloadFailed" xml:space="preserve">
-    <value>Неудачная загрузка</value>
+    <value>Неудачная загрузка.</value>
   <comment>Download failed.</comment>
   </data>
 </root>
