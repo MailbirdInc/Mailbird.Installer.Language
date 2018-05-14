@@ -122,37 +122,37 @@
   <comment>Cancel Installation</comment>
   </data>
   <data name="Dialog_CancelInstallationExplanation" xml:space="preserve">
-    <value>Biztos benne, hogy megszakítja a {0} telepítését?</value>
-    <comment>Are you sure you want to cancel the {0} installation?</comment>
+    <value>Biztosan megszakításra kerüljön a {0} telepítése?</value>
+  <comment>Are you sure you want to cancel the {0} installation?</comment>
   </data>
   <data name="Dialog_DownloadFailedExplanation" xml:space="preserve">
-    <value>Nem lehet letölteni a {0} telepítő fájlt. Szeretné letölteni és kipróbálni az offline telepítőt helyette?</value>
-    <comment>Cannot download {0} setup file.
+    <value>Nem lehet letölteni a {0} telepítő fájlt. Helyette a kapcsolat nélküli telepítő legyen letöltve és kipróbálásra?</value>
+  <comment>Cannot download {0} setup file.
  Would you like to download and try the offline installer instead?</comment>
   </data>
   <data name="Dialog_InvalidLocation" xml:space="preserve">
-    <value>Érvénytelen hely</value>
-    <comment>Invalid Location</comment>
+    <value>Érvénytelen a telepítési hely</value>
+  <comment>Invalid Location</comment>
   </data>
   <data name="Dialog_InvalidLocationExplanation" xml:space="preserve">
-    <value>A Mailbird nem telepíthető olyan helyre, ahol nem angol karaktereket tartalmaz az elérési út. Kérjük, válasszon egy másik telepítési helyet.</value>
-    <comment>Mailbird cannot be installed to a location with non-English characters in the path. Please select a different location.</comment>
+    <value>A Mailbird nem telepíthető olyan helyre, ahol az elérési útvonal nem-angol karaktereket tartalmaz. Válasszunk egy másik telepítési helyet.</value>
+  <comment>Mailbird cannot be installed to a location with non-English characters in the path. Please select a different location.</comment>
   </data>
   <data name="Dialog_OfflineInstaller" xml:space="preserve">
-    <value>Offline telepítő letöltése</value>
-    <comment>Download Offline Installer</comment>
+    <value>Kapcsolat nélküli telepítő letöltése</value>
+  <comment>Download Offline Installer</comment>
   </data>
   <data name="Dialog_OfflineInstallerExplanation" xml:space="preserve">
-    <value>Szeretné letölteni és kipróbálni az offline telepítőt helyette?</value>
-    <comment>Would you like to download and try the offline installer instead?</comment>
+    <value>Helyette letöltésre és kipróbálásra kerüljön a kapcsolat nélküli telepítő?</value>
+  <comment>Would you like to download and try the offline installer instead?</comment>
   </data>
   <data name="Dialog_UnableLaunch" xml:space="preserve">
     <value>{0} indítása</value>
     <comment>Launching {0}</comment>
   </data>
   <data name="Dialog_UnableLaunchExplanation" xml:space="preserve">
-    <value>Kérjük indítsa el {0}-t az asztali parancsikon segítségével.</value>
-    <comment>Please launch {0} using the shortcut on the desktop.</comment>
+    <value>Indítsa el {0} alkalmazást az asztali parancsikon segítségével.</value>
+  <comment>Please launch {0} using the shortcut on the desktop.</comment>
   </data>
   <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
     <value>Parancsikon létrehozása az asztalon</value>
@@ -183,49 +183,49 @@
     <comment>Start Mailbird</comment>
   </data>
   <data name="InstallationForm_Status" xml:space="preserve">
-    <value>Telepítés...</value>
-    <comment>Installing...</comment>
+    <value>A telepítés folyamatban van...</value>
+  <comment>Installing...</comment>
   </data>
   <data name="InstallationForm_Title" xml:space="preserve">
-    <value>{0} Telepítő</value>
-    <comment>{0} Installer</comment>
+    <value>{0} telepítő</value>
+  <comment>{0} Installer</comment>
   </data>
   <data name="InstallationForm_Version" xml:space="preserve">
     <value>Verzió:</value>
     <comment>Version:</comment>
   </data>
   <data name="Status_AlreadyInstalled" xml:space="preserve">
-    <value>{0} már telepítve van.</value>
-    <comment>{0} is already installed.</comment>
+    <value>{0} már telepítésre került.</value>
+  <comment>{0} is already installed.</comment>
   </data>
   <data name="Status_Downloading" xml:space="preserve">
-    <value>Letöltés...</value>
-    <comment>Downloading...</comment>
+    <value>A letöltés folyamatban van...</value>
+  <comment>Downloading...</comment>
   </data>
   <data name="Status_DownloadProgress" xml:space="preserve">
-    <value>{0} telepítő letöltése... ({1}%)</value>
-    <comment>Downloading {0} Setup... ({1}%)</comment>
+    <value>{0} telepítő letöltése folyamatban van... ({1}%)</value>
+  <comment>Downloading {0} Setup... ({1}%)</comment>
   </data>
   <data name="Status_InstallationCompleted" xml:space="preserve">
-    <value>A telepítés elkészült</value>
+    <value>A telepítés befejeződött</value>
   <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
-    <value>A telepítés sikertelen az alábbi hibakóddal: {0} 
-Kattintson ide a naplófájl megtekintéséhez.</value>
-    <comment>Installation failed with error code: {0} 
+    <value>A telepítés sikertelen volt az alábbi hibakód miatt: {0} 
+Kattintás ide a naplófájl megtekintéséhez.</value>
+  <comment>Installation failed with error code: {0} 
 Click here to show the log file.</comment>
   </data>
   <data name="Status_InstallationFailed" xml:space="preserve">
-    <value>Telepítés sikertelen.</value>
-    <comment>Installation failed.</comment>
+    <value>A telepítés sikertelen volt.</value>
+  <comment>Installation failed.</comment>
   </data>
   <data name="Status_Installing" xml:space="preserve">
-    <value>Telepítés {0}...</value>
-    <comment>Installing {0}...</comment>
+    <value>{0} telepítése folyamatban van...</value>
+  <comment>Installing {0}...</comment>
   </data>
   <data name="InstallationForm_RunStartup" xml:space="preserve">
-    <value>Automatikus indítás a Windows-zal együtt</value>
+    <value>Automatikus indítás a Windows segítségével</value>
   <comment>Start automatically with Windows</comment>
   </data>
   <data name="InstallationForm_Continue" xml:space="preserve">
@@ -233,49 +233,49 @@ Click here to show the log file.</comment>
     <comment>Continue</comment>
   </data>
   <data name="InstallationForm_Share" xml:space="preserve">
-    <value>Megosztás a barátokkal</value>
-    <comment>Share with Friends</comment>
+    <value>Megosztás ismerősökkel</value>
+  <comment>Share with Friends</comment>
   </data>
   <data name="InstallationForm_Replay" xml:space="preserve">
-    <value>Kattintson ide a videó lejátszásához</value>
-    <comment>Click here to play the video</comment>
+    <value>Kattintás ide a videó lejátszásához</value>
+  <comment>Click here to play the video</comment>
   </data>
   <data name="InstallationForm_RightClick" xml:space="preserve">
-    <value>Jobb egérrel kattintson ide a lejátszó vezérléshez</value>
-    <comment>Right click here to show player control</comment>
+    <value>Kattintás ide a jobb egérrel a lejátszó vezérlő megjelenítéséhez</value>
+  <comment>Right click here to show player control</comment>
   </data>
   <data name="Dialog_VideoError" xml:space="preserve">
-    <value>Videó lejátszása sikertelen</value>
-    <comment>Video can't be played</comment>
+    <value>A videó nem játszható le</value>
+  <comment>Video can't be played</comment>
   </data>
   <data name="Dialog_VideoErrorExplanation" xml:space="preserve">
-    <value>Hiba történt a bevezető videó lejátszásakor. Szeretné meglátogatni a tippek és trükkök oldalt, hogy többet megtudjon Mailbird-ről?</value>
-    <comment>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</comment>
+    <value>Hiba történt a bevezető videó lejátszásakor. A tippek és trükkök oldal meglátogatása a Mailbird további megismeréséhez?</value>
+  <comment>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</comment>
   </data>
   <data name="InstallationForm_Mute" xml:space="preserve">
-    <value>Némít</value>
-    <comment>Mute</comment>
+    <value>Némítás</value>
+  <comment>Mute</comment>
   </data>
   <data name="InstallationForm_Unmute" xml:space="preserve">
-    <value>Hang be</value>
-    <comment>Unmute</comment>
+    <value>Hangosítás</value>
+  <comment>Unmute</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
-    <value>Telepítés sikertelen.
-({0}) {1} Kattintson ide a naplófájl megtekintéséhez.</value>
-    <comment>Installation failed.
+    <value>A telepítés sikertelen volt.
+({0}) {1} Kattintás ide a naplófájl megtekintéséhez.</value>
+  <comment>Installation failed.
 ({0}) {1} Click here to show the log file.</comment>
   </data>
   <data name="Dialog_DownloadFailed" xml:space="preserve">
-    <value>A letöltés sikertelen</value>
-    <comment>Download Failed</comment>
+    <value>A letöltés sikertelen volt</value>
+  <comment>Download Failed</comment>
   </data>
   <data name="InstallationForm_ShowLogFile" xml:space="preserve">
     <value>Naplófájl megtekintése</value>
     <comment>Show Log File</comment>
   </data>
   <data name="Status_DownloadFailed" xml:space="preserve">
-    <value>Letöltés sikertelen.</value>
-    <comment>Download failed.</comment>
+    <value>A letöltés sikertelen volt.</value>
+  <comment>Download failed.</comment>
   </data>
 </root>
