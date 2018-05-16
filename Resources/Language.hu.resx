@@ -179,8 +179,8 @@
   <comment>Pin Mailbird to Taskbar</comment>
   </data>
   <data name="InstallationForm_StartMailbird" xml:space="preserve">
-    <value>Mailbird indítása</value>
-    <comment>Start Mailbird</comment>
+    <value>A Mailbird indítása</value>
+  <comment>Start Mailbird</comment>
   </data>
   <data name="InstallationForm_Status" xml:space="preserve">
     <value>A telepítés folyamatban van...</value>
@@ -225,7 +225,7 @@ Click here to show the log file.</comment>
   <comment>Installing {0}...</comment>
   </data>
   <data name="InstallationForm_RunStartup" xml:space="preserve">
-    <value>Automatikus indítás a Windows segítségével</value>
+    <value>Automatikus indítás a Windows indításával</value>
   <comment>Start automatically with Windows</comment>
   </data>
   <data name="InstallationForm_Continue" xml:space="preserve">
