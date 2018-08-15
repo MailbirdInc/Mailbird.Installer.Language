@@ -155,8 +155,8 @@
     <comment>Please launch {0} using the shortcut on the desktop.</comment>
   </data>
   <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
-    <value>Masaüstünde kısayol oluştur</value>
-    <comment>Create shortcut on Desktop</comment>
+    <value>Masaüstüne kısayol oluştur</value>
+  <comment>Create shortcut on Desktop</comment>
   </data>
   <data name="InstallationForm_Directory" xml:space="preserve">
     <value>Kurulum klasörü:</value>
