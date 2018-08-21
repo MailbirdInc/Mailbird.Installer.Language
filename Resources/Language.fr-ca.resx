@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Dialog_CancelInstallation" xml:space="preserve">
-    <value>Annuler l&apos;installation</value>
+    <value>Annuler l'installation</value>
     <comment>Cancel Installation</comment>
   </data>
   <data name="Dialog_CancelInstallationExplanation" xml:space="preserve">
-    <value>Etes-vous certains de vouloir annuler l&apos;installation de {0} ?</value>
+    <value>Etes-vous certains de vouloir annuler l'installation de {0} ?</value>
     <comment>Are you sure you want to cancel the {0} installation?</comment>
   </data>
   <data name="Dialog_DownloadFailedExplanation" xml:space="preserve">
-    <value>Impossible de télécharger le fichier d&apos;installation {0}.
-Voudriez-vous plutôt télécharger le programme d&apos;installation hors ligne? </value>
+    <value>Impossible de télécharger le fichier d'installation {0}.
+Voudriez-vous plutôt télécharger le programme d'installation hors ligne? </value>
     <comment>Cannot download {0} setup file.
  Would you like to download and try the offline installer instead?</comment>
   </data>
@@ -140,11 +140,11 @@ Voudriez-vous plutôt télécharger le programme d&apos;installation hors ligne?
     <comment>Mailbird cannot be installed to a location with non-English characters in the path. Please select a different location.</comment>
   </data>
   <data name="Dialog_OfflineInstaller" xml:space="preserve">
-    <value>Télécharger le programme d&apos;installation hors ligne</value>
+    <value>Télécharger le programme d'installation hors ligne</value>
     <comment>Download Offline Installer</comment>
   </data>
   <data name="Dialog_OfflineInstallerExplanation" xml:space="preserve">
-    <value>Voulez-vous télécharger et essayer le programme d&apos;installation hors ligne à la place?</value>
+    <value>Voulez-vous télécharger et essayer le programme d'installation hors ligne à la place?</value>
     <comment>Would you like to download and try the offline installer instead?</comment>
   </data>
   <data name="Dialog_UnableLaunch" xml:space="preserve">
@@ -160,7 +160,7 @@ Voudriez-vous plutôt télécharger le programme d&apos;installation hors ligne?
     <comment>Create shortcut on Desktop</comment>
   </data>
   <data name="InstallationForm_Directory" xml:space="preserve">
-    <value>Répertoire d&apos;installation:</value>
+    <value>Répertoire d'installation:</value>
     <comment>Installation folder:</comment>
   </data>
   <data name="InstallationForm_InstallMailbird" xml:space="preserve">
@@ -188,7 +188,7 @@ Voudriez-vous plutôt télécharger le programme d&apos;installation hors ligne?
     <comment>Installing...</comment>
   </data>
   <data name="InstallationForm_Title" xml:space="preserve">
-    <value>{0} Programme d&apos;installation</value>
+    <value>{0} Programme d'installation</value>
     <comment>{0} Installer</comment>
   </data>
   <data name="InstallationForm_Version" xml:space="preserve">
@@ -212,13 +212,13 @@ Voudriez-vous plutôt télécharger le programme d&apos;installation hors ligne?
     <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
-    <value>Échec de l&apos;installation. Code d&apos;erreur: {0}
+    <value>Échec de l'installation. Code d'erreur: {0}
 Cliquer ici pour consulter le fichier de journalisation.</value>
     <comment>Installation failed with error code: {0} 
 Click here to show the log file.</comment>
   </data>
   <data name="Status_InstallationFailed" xml:space="preserve">
-    <value>Echec de l&apos;installation.</value>
+    <value>Echec de l'installation.</value>
     <comment>Installation failed.</comment>
   </data>
   <data name="Status_Installing" xml:space="preserve">
@@ -250,7 +250,7 @@ Click here to show the log file.</comment>
     <comment>Video can't be played</comment>
   </data>
   <data name="Dialog_VideoErrorExplanation" xml:space="preserve">
-    <value>Il y eu une erreur lors de la lecture de la vidéo d&apos;introduction. Voulez-vous visiter nos page d&apos;aide pour en savoir plus sur Mailbird ?</value>
+    <value>Il y eu une erreur lors de la lecture de la vidéo d'introduction. Voulez-vous visiter nos page d'aide pour en savoir plus sur Mailbird ?</value>
     <comment>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</comment>
   </data>
   <data name="InstallationForm_Mute" xml:space="preserve">
@@ -262,7 +262,7 @@ Click here to show the log file.</comment>
     <comment>Unmute</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
-    <value>L&apos;installation a échouée
+    <value>L'installation a échouée
 ({0}) {1} Cliquer ici pour consulter le fichier de journalisation.</value>
     <comment>Installation failed.
 ({0}) {1} Click here to show the log file.</comment>
@@ -278,5 +278,17 @@ Click here to show the log file.</comment>
   <data name="Status_DownloadFailed" xml:space="preserve">
     <value>Le téléchargement a échoué. </value>
     <comment>Download failed.</comment>
+  </data>
+  <data name="LicenseAgreementForm_Accept" xml:space="preserve">
+    <value>Accept</value>
+    <comment>Accept</comment>
+  </data>
+  <data name="LicenseAgreementForm_Privacy" xml:space="preserve">
+    <value>View our Privacy Policy online</value>
+    <comment>View our Privacy Policy online</comment>
+  </data>
+  <data name="LicenseAgreementForm_Title" xml:space="preserve">
+    <value>{0} License Agreement</value>
+    <comment>{0} License Agreement</comment>
   </data>
 </root>

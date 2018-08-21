@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -273,5 +273,17 @@
   <data name="Status_DownloadFailed" xml:space="preserve">
     <value>Download failed.</value>
     <comment>Download failed.</comment>
+  </data>
+  <data name="LicenseAgreementForm_Accept" xml:space="preserve">
+    <value>Accept</value>
+    <comment>Accept</comment>
+  </data>
+  <data name="LicenseAgreementForm_Privacy" xml:space="preserve">
+    <value>View our Privacy Policy online</value>
+    <comment>View our Privacy Policy online</comment>
+  </data>
+  <data name="LicenseAgreementForm_Title" xml:space="preserve">
+    <value>{0} License Agreement</value>
+    <comment>{0} License Agreement</comment>
   </data>
 </root>
