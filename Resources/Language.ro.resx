@@ -283,11 +283,11 @@ Click here to show the log file.</comment>
     <comment>Accept</comment>
   </data>
   <data name="LicenseAgreementForm_Privacy" xml:space="preserve">
-    <value>View our Privacy Policy online</value>
-    <comment>View our Privacy Policy online</comment>
+    <value>Consultați Politica de Confidențialitate online</value>
+  <comment>View our Privacy Policy online</comment>
   </data>
   <data name="LicenseAgreementForm_Title" xml:space="preserve">
-    <value>{0} License Agreement</value>
-    <comment>{0} License Agreement</comment>
+    <value>{0} Acord de licențiere</value>
+  <comment>{0} License Agreement</comment>
   </data>
 </root>
