@@ -279,8 +279,8 @@ Click here to show the log file.</comment>
     <comment>Download failed.</comment>
   </data>
   <data name="LicenseAgreementForm_Accept" xml:space="preserve">
-    <value>Accept</value>
-    <comment>Accept</comment>
+    <value>Sunt de acord</value>
+  <comment>Accept</comment>
   </data>
   <data name="LicenseAgreementForm_Privacy" xml:space="preserve">
     <value>Consultați Politica de Confidențialitate online</value>
