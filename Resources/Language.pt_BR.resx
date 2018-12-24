@@ -126,8 +126,8 @@
     <comment>Are you sure you want to cancel the {0} installation?</comment>
   </data>
   <data name="Dialog_DownloadFailedExplanation" xml:space="preserve">
-    <value>Não foi possível baixar o {0} arquivo de instalação. Gostaria de baixar o instalador offline?</value>
-    <comment>Cannot download {0} setup file.
+    <value>Não foi possível baixar o {0} arquivo de instalação. Gostaria de baixar o instalador off-line?</value>
+  <comment>Cannot download {0} setup file.
  Would you like to download and try the offline installer instead?</comment>
   </data>
   <data name="Dialog_InvalidLocation" xml:space="preserve">
@@ -139,12 +139,12 @@
   <comment>Mailbird cannot be installed to a location with non-English characters in the path. Please select a different location.</comment>
   </data>
   <data name="Dialog_OfflineInstaller" xml:space="preserve">
-    <value>Baixar Instalador Offline</value>
-    <comment>Download Offline Installer</comment>
+    <value>Baixar Instalador Off-line</value>
+  <comment>Download Offline Installer</comment>
   </data>
   <data name="Dialog_OfflineInstallerExplanation" xml:space="preserve">
-    <value>Gostaria de baixar o instalador offline como alternativa?</value>
-    <comment>Would you like to download and try the offline installer instead?</comment>
+    <value>Gostaria de baixar o instalador off-line como alternativa?</value>
+  <comment>Would you like to download and try the offline installer instead?</comment>
   </data>
   <data name="Dialog_UnableLaunch" xml:space="preserve">
     <value>Iniciando {0}</value>
@@ -279,15 +279,15 @@ Click here to show the log file.</comment>
     <comment>Download failed.</comment>
   </data>
   <data name="LicenseAgreementForm_Accept" xml:space="preserve">
-    <value>Accept</value>
-    <comment>Accept</comment>
+    <value>Aceitar</value>
+  <comment>Accept</comment>
   </data>
   <data name="LicenseAgreementForm_Privacy" xml:space="preserve">
-    <value>View our Privacy Policy online</value>
-    <comment>View our Privacy Policy online</comment>
+    <value>Veja nossa Política de Privacidade on-line</value>
+  <comment>View our Privacy Policy online</comment>
   </data>
   <data name="LicenseAgreementForm_Title" xml:space="preserve">
-    <value>{0} License Agreement</value>
-    <comment>{0} License Agreement</comment>
+    <value>{0} Contrato de Licença</value>
+  <comment>{0} License Agreement</comment>
   </data>
 </root>
