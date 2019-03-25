@@ -143,7 +143,7 @@
     <comment>Download Offline Installer</comment>
   </data>
   <data name="Dialog_OfflineInstallerExplanation" xml:space="preserve">
-    <value>Wil je de offline-installer downloaden en proberen in plaats daarvan?</value>
+    <value>Wil je de offline-installer downloaden en in plaats daarvan proberen?</value>
     <comment>Would you like to download and try the offline installer instead?</comment>
   </data>
   <data name="Dialog_UnableLaunch" xml:space="preserve">
@@ -211,7 +211,7 @@
     <comment>Installation is completed</comment>
   </data>
   <data name="Status_InstallationErrorCode" xml:space="preserve">
-    <value>Installatie mislukt met foutcode: {0} 
+    <value>Installatie is mislukt met foutcode: {0} 
 Klik hier om het logboekbestand te tonen.</value>
     <comment>Installation failed with error code: {0} 
 Click here to show the log file.</comment>
