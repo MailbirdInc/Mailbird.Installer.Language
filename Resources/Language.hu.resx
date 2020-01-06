@@ -267,7 +267,7 @@ Click here to show the log file.</comment>
 ({0}) {1} Click here to show the log file.</comment>
   </data>
   <data name="Dialog_DownloadFailed" xml:space="preserve">
-    <value>A letöltés sikertelen volt</value>
+    <value>A letöltés sikertelen volt.</value>
     <comment>Download Failed</comment>
   </data>
   <data name="InstallationForm_ShowLogFile" xml:space="preserve">
@@ -283,7 +283,7 @@ Click here to show the log file.</comment>
     <comment>Accept</comment>
   </data>
   <data name="LicenseAgreementForm_Privacy" xml:space="preserve">
-    <value>Adatvédelem online</value>
+    <value>Webes adatvédelmi szabályok megtekintése</value>
     <comment>View our Privacy Policy online</comment>
   </data>
   <data name="LicenseAgreementForm_Title" xml:space="preserve">
