@@ -225,7 +225,7 @@ Click here to show the log file.</comment>
     <comment>Installing {0}...</comment>
   </data>
   <data name="InstallationForm_RunStartup" xml:space="preserve">
-    <value>Iniciar com o arranque do Windows</value>
+    <value>Iniciar automaticamente com o Windows</value>
     <comment>Start automatically with Windows</comment>
   </data>
   <data name="InstallationForm_Continue" xml:space="preserve">
@@ -249,8 +249,7 @@ Click here to show the log file.</comment>
     <comment>Video can't be played</comment>
   </data>
   <data name="Dialog_VideoErrorExplanation" xml:space="preserve">
-    <value>Ocorreu um erro quando tentou reproduzir o vídeo de introdução.
-Gostaria de visitar a nossa página de truques e dicas para aprender mais sobre o Mailbird?</value>
+    <value>Ocorreu um erro quando tentou reproduzir o vídeo de introdução. Gostaria de visitar a nossa página de truques e dicas para aprender mais sobre o Mailbird?</value>
     <comment>There was an error when you are trying to play the introduction video. Would you like to visit our tips and trick page to learn more about Mailbird?</comment>
   </data>
   <data name="InstallationForm_Mute" xml:space="preserve">
