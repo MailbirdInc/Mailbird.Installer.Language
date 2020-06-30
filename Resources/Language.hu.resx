@@ -131,7 +131,7 @@
  Would you like to download and try the offline installer instead?</comment>
   </data>
   <data name="Dialog_InvalidLocation" xml:space="preserve">
-    <value>Érvénytelen a telepítési hely.</value>
+    <value>A telepítési hely érvénytelen.</value>
     <comment>Invalid Location</comment>
   </data>
   <data name="Dialog_InvalidLocationExplanation" xml:space="preserve">
