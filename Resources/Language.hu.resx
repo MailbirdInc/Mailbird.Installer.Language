@@ -131,7 +131,7 @@
  Would you like to download and try the offline installer instead?</comment>
   </data>
   <data name="Dialog_InvalidLocation" xml:space="preserve">
-    <value>A telepítési hely érvénytelen.</value>
+    <value>A telepítési hely érvénytelen</value>
     <comment>Invalid Location</comment>
   </data>
   <data name="Dialog_InvalidLocationExplanation" xml:space="preserve">
@@ -179,7 +179,7 @@
     <comment>Pin Mailbird to Taskbar</comment>
   </data>
   <data name="InstallationForm_StartMailbird" xml:space="preserve">
-    <value>A Mailbird indítása</value>
+    <value>Mailbird indítása</value>
     <comment>Start Mailbird</comment>
   </data>
   <data name="InstallationForm_Status" xml:space="preserve">
@@ -241,7 +241,7 @@ Click here to show the log file.</comment>
     <comment>Click here to play the video</comment>
   </data>
   <data name="InstallationForm_RightClick" xml:space="preserve">
-    <value>Kattintás ide a jobb egérrel a lejátszó vezérlő megjelenítéséhez</value>
+    <value>Kattintás ide a jobb egérgombbal a lejátszó vezérlő megjelenítéséhez</value>
     <comment>Right click here to show player control</comment>
   </data>
   <data name="Dialog_VideoError" xml:space="preserve">
