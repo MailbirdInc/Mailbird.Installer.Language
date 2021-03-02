@@ -179,7 +179,7 @@
     <comment>Pin Mailbird to Taskbar</comment>
   </data>
   <data name="InstallationForm_StartMailbird" xml:space="preserve">
-    <value>Start Mailbird</value>
+    <value>Åben Mailbird</value>
     <comment>Start Mailbird</comment>
   </data>
   <data name="InstallationForm_Status" xml:space="preserve">
