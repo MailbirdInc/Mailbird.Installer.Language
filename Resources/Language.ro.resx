@@ -151,7 +151,7 @@
     <comment>Launching {0}</comment>
   </data>
   <data name="Dialog_UnableLaunchExplanation" xml:space="preserve">
-    <value>Vă rugăm să lansați {0}, folosind scurtătura de pe pe desktop.</value>
+    <value>Vă rugăm să lansați {0} folosind scurtătura de pe pe desktop.</value>
     <comment>Please launch {0} using the shortcut on the desktop.</comment>
   </data>
   <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
