@@ -171,11 +171,11 @@
     <comment>Language:</comment>
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
-    <value>Mailbird rögzítése a Start menüben</value>
+    <value>A Mailbird rögzítése a Start menüben</value>
     <comment>Pin Mailbird to Start menu</comment>
   </data>
   <data name="InstallationForm_PinTaskbar" xml:space="preserve">
-    <value>Mailbird rögzítése a tálcán</value>
+    <value>A Mailbird rögzítése a tálcán</value>
     <comment>Pin Mailbird to Taskbar</comment>
   </data>
   <data name="InstallationForm_StartMailbird" xml:space="preserve">
@@ -267,7 +267,7 @@ Click here to show the log file.</comment>
 ({0}) {1} Click here to show the log file.</comment>
   </data>
   <data name="Dialog_DownloadFailed" xml:space="preserve">
-    <value>A letöltés sikertelen volt.</value>
+    <value>A letöltés sikertelen volt</value>
     <comment>Download Failed</comment>
   </data>
   <data name="InstallationForm_ShowLogFile" xml:space="preserve">
