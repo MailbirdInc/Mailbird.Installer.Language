@@ -151,7 +151,7 @@
     <comment>Launching {0}</comment>
   </data>
   <data name="Dialog_UnableLaunchExplanation" xml:space="preserve">
-    <value>Indítsa el {0} alkalmazást az asztali parancsikon segítségével.</value>
+    <value>{0} alkalmazás indítása az asztali parancsikon segítségével.</value>
     <comment>Please launch {0} using the shortcut on the desktop.</comment>
   </data>
   <data name="InstallationForm_DesktopShortcut" xml:space="preserve">
