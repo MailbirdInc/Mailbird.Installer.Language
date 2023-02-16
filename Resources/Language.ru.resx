@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -60,45 +60,45 @@
             : and then encoded with base64 encoding.
     -->
   <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -126,7 +126,7 @@
     <comment>Are you sure you want to cancel the {0} installation?</comment>
   </data>
   <data name="Dialog_DownloadFailedExplanation" xml:space="preserve">
-    <value>Не могу загрузить установочный файл {0}. Хотите попробовать загрузить оффлайн инсталлятор?</value>
+    <value>Не могу загрузить установочный файл {0}. Хотите попробовать загрузить оффлайн инсталлер?</value>
     <comment>Cannot download {0} setup file.
  Would you like to download and try the offline installer instead?</comment>
   </data>
@@ -196,7 +196,7 @@
   </data>
   <data name="Status_AlreadyInstalled" xml:space="preserve">
     <value>{0} уже установлен.</value>
-  <comment>{0} is already installed.</comment>
+    <comment>{0} is already installed.</comment>
   </data>
   <data name="Status_Downloading" xml:space="preserve">
     <value>Загрузка...</value>
@@ -213,12 +213,12 @@
   <data name="Status_InstallationErrorCode" xml:space="preserve">
     <value>Установка закончилась с кодом ошибки: {0} 
 Нажмите тут для просмотра деталей ошибки.</value>
-  <comment>Installation failed with error code: {0} 
+    <comment>Installation failed with error code: {0} 
 Click here to show the log file.</comment>
   </data>
   <data name="Status_InstallationFailed" xml:space="preserve">
     <value>Установка невозможна.</value>
-  <comment>Installation failed.</comment>
+    <comment>Installation failed.</comment>
   </data>
   <data name="Status_Installing" xml:space="preserve">
     <value>Выполняется установка {0}...</value>
@@ -254,16 +254,16 @@ Click here to show the log file.</comment>
   </data>
   <data name="InstallationForm_Mute" xml:space="preserve">
     <value>Выключить звук</value>
-  <comment>Mute</comment>
+    <comment>Mute</comment>
   </data>
   <data name="InstallationForm_Unmute" xml:space="preserve">
     <value>Включить звук</value>
-  <comment>Unmute</comment>
+    <comment>Unmute</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
-    <value>Установка неудалась.
-({0}) {1} Нажмите тут для просмотра деталей.</value>
-  <comment>Installation failed.
+    <value>Установка не удалась.
+({0}) {1} Нажмите здесь для просмотра деталей.</value>
+    <comment>Installation failed.
 ({0}) {1} Click here to show the log file.</comment>
   </data>
   <data name="Dialog_DownloadFailed" xml:space="preserve">
@@ -272,22 +272,22 @@ Click here to show the log file.</comment>
   </data>
   <data name="InstallationForm_ShowLogFile" xml:space="preserve">
     <value>Показать log файл</value>
-  <comment>Show Log File</comment>
+    <comment>Show Log File</comment>
   </data>
   <data name="Status_DownloadFailed" xml:space="preserve">
     <value>Неудачная загрузка.</value>
-  <comment>Download failed.</comment>
+    <comment>Download failed.</comment>
   </data>
   <data name="LicenseAgreementForm_Accept" xml:space="preserve">
     <value>Принять</value>
-  <comment>Accept</comment>
+    <comment>Accept</comment>
   </data>
   <data name="LicenseAgreementForm_Privacy" xml:space="preserve">
     <value>Просмотрите нашу политику конфиденциальности онлайн</value>
-  <comment>View our Privacy Policy online</comment>
+    <comment>View our Privacy Policy online</comment>
   </data>
   <data name="LicenseAgreementForm_Title" xml:space="preserve">
     <value>{0} Лицензионное соглашение</value>
-  <comment>{0} License Agreement</comment>
+    <comment>{0} License Agreement</comment>
   </data>
 </root>
