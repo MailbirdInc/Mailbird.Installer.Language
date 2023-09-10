@@ -131,7 +131,7 @@
  Would you like to download and try the offline installer instead?</comment>
   </data>
   <data name="Dialog_InvalidLocation" xml:space="preserve">
-    <value>A telepítési hely érvénytelen.</value>
+    <value>A hely érvénytelen.</value>
     <comment>Invalid Location</comment>
   </data>
   <data name="Dialog_InvalidLocationExplanation" xml:space="preserve">
@@ -245,7 +245,7 @@ Click here to show the log file.</comment>
     <comment>Right click here to show player control</comment>
   </data>
   <data name="Dialog_VideoError" xml:space="preserve">
-    <value>A videó nem játszható le</value>
+    <value>A videó nem játszható le.</value>
     <comment>Video can't be played</comment>
   </data>
   <data name="Dialog_VideoErrorExplanation" xml:space="preserve">
@@ -267,7 +267,7 @@ Click here to show the log file.</comment>
 ({0}) {1} Click here to show the log file.</comment>
   </data>
   <data name="Dialog_DownloadFailed" xml:space="preserve">
-    <value>A letöltés sikertelen volt</value>
+    <value>A letöltés sikertelen volt.</value>
     <comment>Download Failed</comment>
   </data>
   <data name="InstallationForm_ShowLogFile" xml:space="preserve">
