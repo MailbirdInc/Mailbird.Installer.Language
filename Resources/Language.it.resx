@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -60,45 +60,45 @@
             : and then encoded with base64 encoding.
     -->
   <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -140,7 +140,7 @@
   </data>
   <data name="Dialog_OfflineInstaller" xml:space="preserve">
     <value>Scarica il programma di installazione offline</value>
-  <comment>Download Offline Installer</comment>
+    <comment>Download Offline Installer</comment>
   </data>
   <data name="Dialog_OfflineInstallerExplanation" xml:space="preserve">
     <value>Vuoi provare a scaricare il programma di installazione offline?</value>
@@ -184,7 +184,7 @@
   </data>
   <data name="InstallationForm_Status" xml:space="preserve">
     <value>Installazione in corso...</value>
-  <comment>Installing...</comment>
+    <comment>Installing...</comment>
   </data>
   <data name="InstallationForm_Title" xml:space="preserve">
     <value>Installazione di {0}</value>
@@ -238,7 +238,7 @@ Click here to show the log file.</comment>
   </data>
   <data name="InstallationForm_Replay" xml:space="preserve">
     <value>Clicca qui per riprodurre il video</value>
-  <comment>Click here to play the video</comment>
+    <comment>Click here to play the video</comment>
   </data>
   <data name="InstallationForm_RightClick" xml:space="preserve">
     <value>Clicca col tasto destro per visualizzare i controlli</value>
@@ -254,7 +254,7 @@ Click here to show the log file.</comment>
   </data>
   <data name="InstallationForm_Mute" xml:space="preserve">
     <value>Disattiva audio</value>
-  <comment>Mute</comment>
+    <comment>Mute</comment>
   </data>
   <data name="InstallationForm_Unmute" xml:space="preserve">
     <value>Attiva audio</value>
@@ -280,14 +280,30 @@ Click here to show the log file.</comment>
   </data>
   <data name="LicenseAgreementForm_Accept" xml:space="preserve">
     <value>Accetta</value>
-  <comment>Accept</comment>
+    <comment>Accept</comment>
   </data>
   <data name="LicenseAgreementForm_Privacy" xml:space="preserve">
     <value>Leggi la nostra informativa sulla privacy online</value>
-  <comment>View our Privacy Policy online</comment>
+    <comment>View our Privacy Policy online</comment>
   </data>
   <data name="LicenseAgreementForm_Title" xml:space="preserve">
     <value>Accordo di licenza {0}</value>
-  <comment>{0} License Agreement</comment>
+    <comment>{0} License Agreement</comment>
+  </data>
+  <data name="Dialog_AskToUninstall" xml:space="preserve">
+    <value>A higher version of {0} is already installed</value>
+    <comment>A higher version of {0} is already installed</comment>
+  </data>
+  <data name="Dialog_AskToUninstallExplanation" xml:space="preserve">
+    <value>Do you want to uninstall the current version and re-install using this installer?</value>
+    <comment>Do you want to uninstall the installed version and re-install using this installer?</comment>
+  </data>
+  <data name="Dialog_FailedToUninstall" xml:space="preserve">
+    <value>Unable to uninstall the installed version</value>
+    <comment>Unable to uninstall the installed version</comment>
+  </data>
+  <data name="Dialog_FailedToUninstallExplanation" xml:space="preserve">
+    <value>Please uninstall the product manually from the control panel.</value>
+    <comment>Please uninstall the product manually from the control panel.</comment>
   </data>
 </root>

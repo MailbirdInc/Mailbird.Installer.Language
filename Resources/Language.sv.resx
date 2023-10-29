@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -60,45 +60,45 @@
             : and then encoded with base64 encoding.
     -->
   <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -119,11 +119,11 @@
   </resheader>
   <data name="Dialog_CancelInstallation" xml:space="preserve">
     <value>Avbryt installationen</value>
-  <comment>Cancel Installation</comment>
+    <comment>Cancel Installation</comment>
   </data>
   <data name="Dialog_CancelInstallationExplanation" xml:space="preserve">
     <value>Är du säker på att du vill avbryta installationen {0}?</value>
-  <comment>Are you sure you want to cancel the {0} installation?</comment>
+    <comment>Are you sure you want to cancel the {0} installation?</comment>
   </data>
   <data name="Dialog_DownloadFailedExplanation" xml:space="preserve">
     <value>Kan inte hämta {0} installationsfilen. Vill du ladda ner och testa offlineinstallationen istället?</value>
@@ -172,11 +172,11 @@
   </data>
   <data name="InstallationForm_PinStartMenu" xml:space="preserve">
     <value>Fäst Mailbird på Start-menyn</value>
-  <comment>Pin Mailbird to Start menu</comment>
+    <comment>Pin Mailbird to Start menu</comment>
   </data>
   <data name="InstallationForm_PinTaskbar" xml:space="preserve">
     <value>Fäst Mailbird i Aktivitetsfältet</value>
-  <comment>Pin Mailbird to Taskbar</comment>
+    <comment>Pin Mailbird to Taskbar</comment>
   </data>
   <data name="InstallationForm_StartMailbird" xml:space="preserve">
     <value>Starta Mailbird</value>
@@ -188,7 +188,7 @@
   </data>
   <data name="InstallationForm_Title" xml:space="preserve">
     <value>{0} Installerare</value>
-  <comment>{0} Installer</comment>
+    <comment>{0} Installer</comment>
   </data>
   <data name="InstallationForm_Version" xml:space="preserve">
     <value>Version:</value>
@@ -245,7 +245,7 @@ Klicka här för att visa loggfilen.</value>
   </data>
   <data name="Dialog_VideoError" xml:space="preserve">
     <value>Videon kan inte spelas upp</value>
-  <comment>Video can't be played</comment>
+    <comment>Video can't be played</comment>
   </data>
   <data name="Dialog_VideoErrorExplanation" xml:space="preserve">
     <value>Det uppstod ett fel när du försökte spela upp introduktionsvideon. Vill du besöka vår sida för tips och trix för att lära dig mer om Mailbird?</value>
@@ -253,11 +253,11 @@ Klicka här för att visa loggfilen.</value>
   </data>
   <data name="InstallationForm_Mute" xml:space="preserve">
     <value>Tysta</value>
-  <comment>Mute</comment>
+    <comment>Mute</comment>
   </data>
   <data name="InstallationForm_Unmute" xml:space="preserve">
     <value>Sätt på ljud</value>
-  <comment>Play Sound</comment>
+    <comment>Play Sound</comment>
   </data>
   <data name="Status_InstallationErrorMessage" xml:space="preserve">
     <value>Installation misslyckades.
@@ -268,7 +268,7 @@ Klicka här för att visa loggfilen.</value>
     <value>Nedladdningen misslyckades</value>
     <comment>Download Failed</comment>
   </data>
-<data name="InstallationForm_ShowLogFile" xml:space="preserve">
+  <data name="InstallationForm_ShowLogFile" xml:space="preserve">
     <value>Visa loggfil</value>
     <comment>Show Log File</comment>
   </data>
@@ -287,5 +287,21 @@ Klicka här för att visa loggfilen.</value>
   <data name="LicenseAgreementForm_Title" xml:space="preserve">
     <value>{0} License Agreement</value>
     <comment>{0} License Agreement</comment>
+  </data>
+  <data name="Dialog_AskToUninstall" xml:space="preserve">
+    <value>A higher version of {0} is already installed</value>
+    <comment>A higher version of {0} is already installed</comment>
+  </data>
+  <data name="Dialog_AskToUninstallExplanation" xml:space="preserve">
+    <value>Do you want to uninstall the current version and re-install using this installer?</value>
+    <comment>Do you want to uninstall the installed version and re-install using this installer?</comment>
+  </data>
+  <data name="Dialog_FailedToUninstall" xml:space="preserve">
+    <value>Unable to uninstall the installed version</value>
+    <comment>Unable to uninstall the installed version</comment>
+  </data>
+  <data name="Dialog_FailedToUninstallExplanation" xml:space="preserve">
+    <value>Please uninstall the product manually from the control panel.</value>
+    <comment>Please uninstall the product manually from the control panel.</comment>
   </data>
 </root>
