@@ -291,19 +291,19 @@ Click here to show the log file.</comment>
     <comment>{0} License Agreement</comment>
   </data>
   <data name="Dialog_AskToUninstall" xml:space="preserve">
-    <value>A higher version of {0} is already installed</value>
+    <value>Wyższa wersja {0} jest już zainstalowana</value>
     <comment>A higher version of {0} is already installed</comment>
   </data>
   <data name="Dialog_AskToUninstallExplanation" xml:space="preserve">
-    <value>Do you want to uninstall the current version and re-install using this installer?</value>
+    <value>Chcesz odinstalować bieżącą wersję i zainstalować ponownie przy użyciu tego instalatora?</value>
     <comment>Do you want to uninstall the installed version and re-install using this installer?</comment>
   </data>
   <data name="Dialog_FailedToUninstall" xml:space="preserve">
-    <value>Unable to uninstall the installed version</value>
+    <value>Nie można odinstalować zainstalowanej wersji</value>
     <comment>Unable to uninstall the installed version</comment>
   </data>
   <data name="Dialog_FailedToUninstallExplanation" xml:space="preserve">
-    <value>Please uninstall the product manually from the control panel.</value>
+    <value>Odinstaluj produkt ręcznie w panelu sterowania.</value>
     <comment>Please uninstall the product manually from the control panel.</comment>
   </data>
 </root>
