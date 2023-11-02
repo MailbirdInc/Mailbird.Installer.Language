@@ -291,19 +291,19 @@ Click here to show the log file.</comment>
     <comment>{0} License Agreement</comment>
   </data>
   <data name="Dialog_AskToUninstall" xml:space="preserve">
-    <value>A higher version of {0} is already installed</value>
+    <value>{0} magasabb verziója már telepítésre került.</value>
     <comment>A higher version of {0} is already installed</comment>
   </data>
   <data name="Dialog_AskToUninstallExplanation" xml:space="preserve">
-    <value>Do you want to uninstall the current version and re-install using this installer?</value>
+    <value>Szeretnénk eltávolítani a jelenlegi verziót és újratelepíteni ezzel a telepítővel?</value>
     <comment>Do you want to uninstall the installed version and re-install using this installer?</comment>
   </data>
   <data name="Dialog_FailedToUninstall" xml:space="preserve">
-    <value>Unable to uninstall the installed version</value>
+    <value>Nem lehet eltávolítani a telepített verziót.</value>
     <comment>Unable to uninstall the installed version</comment>
   </data>
   <data name="Dialog_FailedToUninstallExplanation" xml:space="preserve">
-    <value>Please uninstall the product manually from the control panel.</value>
+    <value>Távolítsa el a terméket manuálisan a vezérlőpultról.</value>
     <comment>Please uninstall the product manually from the control panel.</comment>
   </data>
 </root>
